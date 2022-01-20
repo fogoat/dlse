@@ -109,9 +109,10 @@ DECEMBER, 2019
 iii
 
 DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
-Prorata Vacation ............................................................................................................................ 15-1 Statute Does Not Require Employer Provide Vacation ................................................................ 15-1 Probation Periods ........................................................................................................................... 15-1 Use-It-Or-Lose-It Policies Are Not Allowed ................................................................................ 15-1 Earnings Must Be Proportional ..................................................................................................... 15-2 ERISA Preemption ............................................................................................................... 15-2, 15-3 Sale Of Business Constitutes Discharge ...................................................................................... 15-4 Vacation vs. Other Leave Benefits ................................................................................................ 15-4 16. SEVERANCE PAY PROVISIONS .................................................................................................... 16-1 Determining ERISA Coverage Of Severance Plans ............................................................. 16-1,16-2 17. RETALIATION AND DISCRIMINATION -- PROTECTED RIGHTS .......................................... 17-1 Enforcement Jurisdiction Of DLSE ............................................................................................... 17-2 Examples of Prohibited Retaliation ............................................................................................. 17-12 Filing Or Threatening To File With Labor .................................................................................. 17-12 Initiating Action or Notice Pursuant to Labor Code §2699 ......................................................... 17-13 Family Members Protected, Protection for Pre-emptive Retaliation .......................................... 17-13 Penalties to Employees ................................................................................................................ 17-13 California Equal Pay Act ............................................................................................................. 17-14 Disclosure Of Information To Government Authorities or Employer ......................................... 17-14 Filing Safety Complaint Or Refusal To Work In Unsafe Conditions ......................................... 17-15 18. ASSIGNMENT OF WAGES ............................................................................................................... 18-1 19. GRATUITIES ­ TIPS ........................................................................................................................... 19-1 Tip Pooling Limited ...................................................................................................................... 19-2 Service Charge May Be a Gratuity .............................................................................................. 19-3 No Cost May Be Imposed For Recovery For Tips Left On Credit Cards ................................... 19-4 20. EMPLOYEE BONDS ­ REQUIREMENTS AND LIMITATIONS .................................................. 20-1 21. CONTRACTS AND APPLICATIONS FOR EMPLOYMENT ......................................................... 21-1 Employee Right To Copy Of Contract .......................................................................................... 21-1 Polygraph And Similar Tests Prohibited ....................................................................................... 21-1 22. PURCHASES BY EMPLOYEES ­ PATRONIZING EMPLOYER .................................................. 22-1 Illegal To Require Payment To Apply For Employment .............................................................. 22-1 23. CONTRACTS AGAINST PUBLIC POLICY...................................................................................... 23-1 24. SOLICITATION OF EMPLOYEES BY MISREPRESENTATION ................................................. 24-1 25. CONSTRUCTION INDUSTRY CONTRACTORS' REQUIREMENTS .......................................... 25-1 Direct Contractor Liability ­ Labor Code § 218.7 ..........................................................................25.1 26. EMPLOYEE PRIVILEGES AND IMMUNITIES .............................................................................. 26-1 27. PROHIBITED OR LICENSED OCCUPATIONS, SUCCESSORSHIP, CAL WARN ACT ........... 27-1 28. INDEPENDENT CONTRACTOR vs . EMPLOYEE ......................................................................... 28-1 Burden Of Proof ............................................................................................................................ 28-1 Control As A Factor ..................................................................................................................... 28-1
+Prorata Vacation ............................................................................................................................ 15-1 Statute Does Not Require Employer Provide Vacation ................................................................ 15-1 Probation Periods ........................................................................................................................... 15-1 Use-It-Or-Lose-It Policies Are Not Allowed ................................................................................ 15-1 Earnings Must Be Proportional ..................................................................................................... 15-2 ERISA Preemption ............................................................................................................... 15-2, 15-3 Sale Of Business Constitutes Discharge ...................................................................................... 15-4 Vacation vs. Other Leave Benefits ................................................................................................ 15-4 16. SEVERANCE PAY PROVISIONS .................................................................................................... 16-1 Determining ERISA Coverage Of Severance Plans ............................................................. 16-1,16-2 17. RETALIATION AND DISCRIMINATION -- PROTECTED RIGHTS .......................................... 17-1 Enforcement Jurisdiction Of DLSE ............................................................................................... 17-2 Examples of Prohibited Retaliation ............................................................................................. 17-13 Filing Or Threatening To File With Labor .................................................................................. 17-13 Initiating Action or Notice Pursuant to Labor Code §2699 ......................................................... 17-14 Family Members Protected, Protection for Pre-emptive Retaliation .......................................... 17-14 Penalties to Employees ................................................................................................................ 17-14 California Equal Pay Act ............................................................................................................. 17-15 Disclosure Of Information To Government Authorities or Employer ......................................... 17-15 Filing Safety Complaint Or Refusal To Work In Unsafe Conditions ......................................... 17-16 18. ASSIGNMENT OF WAGES ............................................................................................................... 18-1 19. GRATUITIES ­ TIPS ........................................................................................................................... 19-1 Tip Pooling Limited ...................................................................................................................... 19-2 Service Charge May Be a Gratuity .............................................................................................. 19-3 No Cost May Be Imposed For Recovery For Tips Left On Credit Cards ................................... 19-4 20. EMPLOYEE BONDS ­ REQUIREMENTS AND LIMITATIONS .................................................. 20-1 21. CONTRACTS AND APPLICATIONS FOR EMPLOYMENT ......................................................... 21-1 Employee Right To Copy Of Contract .......................................................................................... 21-1 Polygraph And Similar Tests Prohibited ....................................................................................... 21-1 22. PURCHASES BY EMPLOYEES ­ PATRONIZING EMPLOYER .................................................. 22-1 Illegal To Require Payment To Apply For Employment .............................................................. 22-1 23. CONTRACTS AGAINST PUBLIC POLICY...................................................................................... 23-1 24. SOLICITATION OF EMPLOYEES BY MISREPRESENTATION ................................................. 24-1 25. CONSTRUCTION INDUSTRY CONTRACTORS' REQUIREMENTS .......................................... 25-1 Direct Contractor Liability ­ Labor Code § 218.7 ..........................................................................25.1 26. EMPLOYEE PRIVILEGES AND IMMUNITIES .............................................................................. 26-1 27. PROHIBITED OR LICENSED OCCUPATIONS, SUCCESSORSHIP, CAL WARN ACT ........... 27-1 28. INDEPENDENT CONTRACTOR vs . EMPLOYEE ......................................................................... 28-1
+Burden Of Proof............................................................................................................................ 28-2 ABC Test ................................................................................................................................... 28-3 Express Exceptions ...................................................................................................................... 28-8 Borello Test ................................................................................................................................. 28-14
 
-DECEMBER, 2019
+JANUARY, 2022
 
 iv
 
@@ -121,11 +122,9 @@ TABLE OF CONTENTS (Cont'd)
 
 28. INDEPENDENT CONTRACTOR vs . EMPLOYEE (Cont'd.)
 
-Economic Realities Test ............................................................................................................... 28-2
+Control as a Factor ....................................................................................................................... 28-15
 
-Services For Which Contractor's License Is Required ................................................................. 28-3
-
-29. OBLIGATIONS OF EMPLOYERS ..................................................................................................... 29-1
+Services For Which. Contractor's License is Required ................................................................ 28-16 29. OBLIGATIONS OF EMPLOYERS..................................................................................................... 29-1
 
 Obligation To Indemnify Employee For Expenses Or Losses ....................................................... 29-1
 
@@ -205,7 +204,7 @@ Employment By Indian Tribes ....................................................
 
 Enforcement Of Contractual Rights On Federal Enclave ........................................................... 43-5
 
-JUNE, 2002
+JANUARY, 2022
 
 v
 
@@ -329,9 +328,13 @@ JUNE, 2002
 
 2.4.2 The amount of money which is received may be a fixed sum, or it may be ascertained or determined by standard of time, task, piece, commission or by other method of calculation. (Labor Code § 200).
 
-2.4.3 Thus, an amount of compensation may be paid to an employee for labor or services and may be measured by hour, day, week, month, year, or any other subdivision of time (e.g., a yearly "salary").
+2.4.3
 
-2.4.4 A wage is also defined as a specified sum or amount which is paid to an employee in exchange for a given time of service to an employer, or a fixed sum which is paid for a specified piece of work (e.g., "piecework").
+Thus, an amount of compensation may be paid to an employee for labor or services and may be measured by hour, day, week, month, year, or any other subdivision of time (e.g., a yearly "salary").
+
+2.4.4
+
+A wage is also defined as a specified sum or amount which is paid to an employee in exchange for a given time of service to an employer, or a fixed sum which is paid for a specified piece of work (e.g., "piecework").
 
 2.4.5 In the final analysis, wages are considered to be compensation paid to a person who is employed to perform labor or services for another person or entity.
 
@@ -1591,22 +1594,35 @@ DECEMBER, 2020
 Labor Code section 1019.1-1019.4 Makes it an unlawful practice for an employer to request more or different documents than those required by federal immigration law, refuse to honor documents that appear to be genuine, or attempt to reinvestigate or reverify any incumbent employee's authorization to work using an unfair immigration-related practice. In addition to other remedies that might be available, a penalty of up to $10,000 may be awarded for each violation.
 Labor Code section 1024.6 An employer may not discharge an employee or in any manner discriminate, retaliate, or take any adverse action against an employee because the employee updates or attempts to update his or her personal information based on a lawful change of name, social security number, or federal employment authorization document.
 Labor Code sections 1025-1028 Every private employer regularly employing 25 or more employees shall provide reasonable accommodations for an employee to participate in an alcohol or drug rehabilitation program. If the employee believes that he or she has been denied such reasonable accommodation, he or she may file a retaliation complaint with the Labor Commissioner's office.
-Labor Code sections 1030-1033 Prohibits retaliation against an employee who requests a lactation accommodation or who attempts to express breast milk. Every employee desiring to express breast milk for the employee's infant child shall be provided a reasonable amount of break time to do so each time the employee has a need to express milk. The break time shall, if possible, run concurrently with any break time already provided to the employee. Break time for an employee that does not run concurrently with the rest time authorized for the employee by the applicable wage order of the Industrial Welfare Commission need not be paid. However, the denial of a break or adequate space to express milk may result in the recovery of one hour of pay for each violation by filing a wage claim under Labor Code section 226.7. The employer shall provide the employee with the use of a room or other location, other than a bathroom, in close proximity to the employee's work area, shielded from view, and free from intrusion while the employee is expressing milk in private. The room or location may include the place where the employee normally works if it otherwise meets the requirements of this section. The lactation room or location must be safe, clean, and free from hazardous materials, as defined in Labor Code section 6382, contain a surface to place a breast pump and personal items, contain a place to sit and have access to electricity or alternative devices, including but not limited to, extension cords or charging stations needed to operate an electric or battery-powered breast pump. Access to a sink with running water and a refrigerator suitable for storing milk, in close proximity to the employee's workspace must also be provided by the employer. An employer with less than 50 employees is not required to provide an employee break time for purposes of expressing milk if to do so would seriously disrupt the operations of the employer by causing the employer significant difficulty or expense, when considered in relation to size, financial resources, nature or structure of the employer's business. A bathroom, other than a toilet stall, may only be designated if an employer with less than 50 employees can demonstrate that providing another use of a room would impose an undue hardship when considered in relation to the size, nature, or structure of the employer's business. Use of a multipurpose room for lactation takes precedence over
+Labor Code sections 1030-1034 Pursuant to Labor Code Section 1030 every employer, including the state and any political subdivision, must provide a reasonable amount of break time to accommodate an employee desiring to express breast milk for the employee's infant child each time the employee has a need to express milk. The break time shall, if possible, run concurrently with any break time already provided to the employee. Break time for an employee that does not run concurrently with the rest time authorized for the employee by the applicable wage order of the Industrial Welfare Commission need not be paid.
+Pursuant to Labor Code Section 1031, an employer shall provide the employee with the use of a room or other location, other than a bathroom, in close proximity to the employee's work area, shielded from view, and free from intrusion while the employee is expressing milk in private. The room or location may include the place where the employee normally works if it otherwise meets the requirements of this section. The lactation room or location must be safe, clean, and free from hazardous materials, as defined in Labor Code section 6382, contain a surface to place a breast pump and personal items, contain a place to sit and have access to electricity or alternative devices, including but not limited to, extension cords or changing stations needed to operate an electric or battery-powered breast pump. Access to a sink with running water and a refrigerator suitable for storing milk, in close proximity to the employee's workspace must also be provided by the employer.
+Use of a multipurpose room for lactation takes precedence over other uses for the time it is in use for lactation. A multitenant or multiemployer worksite may provide a shared space among multiple employers within the building or worksite if the employer cannot provide a lactation location within the employer's own workspace. Employers or general contractors coordinating a multiemployer worksite must provide lactations accommodations or a safe and secure location for a subcontractor employer to provide the lactation accommodations on the worksite within two business days upon written request of a subcontractor employer.
 
-DECEMBER, 2020
+APRIL, 2021
 
 17 - 8
 
 DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
-other uses for the time it is in use for lactation. A multitenant or multiemployer worksite may provide a shared space among multiple employers within the building or worksite if the employer cannot provide a lactation location within the employer's own workspace. Employers or general contractors coordinating a multiemployer worksite must provide lactations accommodations or a safe and secure location for a subcontractor employer to provide the lactation accommodations on the worksite within two business days upon written request of a subcontractor employer. A temporary location may be designated under specified conditions. Agricultural employers may be deemed in compliance by providing an enclosed and shaded space including but not limited to an air-conditioned cab of a truck or tractor. Retaliation for requesting or using this accommodation is prohibited and will be investigated under Labor Code section 98.7 and 98.74. In addition to other remedies that might be available, a civil penalty of up to $100 for each violation may be awarded.
+Agricultural employers may be deemed in compliance by providing a private, enclosed and shaded space, including, but not limited to an air-conditioned cab of a truck or tractor. A temporary location may be designated if an employer is unable to provide a permanent lactation location because of operational, financial, or space limitations. The temporary location cannot be a bathroom, and must be in close proximity to the employee's work area, shielded from view, free from intrusion while the employee is expressing milk, and otherwise compliant with Labor Code section 1031.
+Exception for Employer with less than 50 employees: An employer with less than 50 employees is not required to provide an employee break time for purposes of expressing milk if to do so would impose an undue hardship by causing the employer significant difficulty or expense, when considered in relation to size, financial resources, nature, or structure of the employer's business. If an employer with less than 50 employees can demonstrate that providing the use of a room or other location, other than a bathroom would impose an undue hardship when considered in relation to size, nature, or structure of the employee's business, the employer must make reasonable efforts to provide a room or other location, other than a toilet stall.
+Pursuant to Labor Code Section 1033, the denial of a break or adequate space to express milk may result in the recovery of one hour of pay at the employee's regular rate of pay for each violation by filing a wage claim under Labor Code section 226.7. Additionally, an employee may report a violation of the lactation accommodations laws with the Labor Commissioner's Bureau of Field Enforcement (BOFE), and after an inspection or investigation, BOFE may issue a citation for one hundred dollars ($100) for each day an employee is denied reasonable break time or adequate space to express milk.
+Employers are required to develop and implement a policy regarding lactation accommodation. The policy must be provided to employees upon hire, when an employee makes an inquiry about or requests parental leave and the policy must be included in an employee handbook or set of policies that the employer makes available to employees. The policy must include the following:
+1. an employee has a right to request a lactation accommodation; 2. the process an employee must follow to make such a request; 3. that the employer must respond in writing to the employee making the request
+if the employer cannot provide break time or a location that complies with the policy; 4. and that the employee has the right to file a complaint with the Labor Commissioner for any violation of their rights for lactation accommodation.
+
+APRIL, 2021
+
+17 - 9
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 Labor Code section 1041-1044 Every private employer regularly employing 25 or more employees shall reasonably accommodate and assist any employee who reveals a problem of illiteracy and requests the employer's assistance in enrolling in an adult literacy education program. An employee who believes she or he has been denied reasonable accommodation to enroll and participate in an adult literacy education program may file a retaliation complaint with the Labor Commissioner's office.
 Labor Code section 1101 Protects employees who engage or participate in politics or who become candidates for public office. An employer may not make, adopt, or enforce any rule, regulation or policy that forbids, controls, directs or tends to direct the political activities or affiliations of employees.
 Labor Code section 1102 Prohibits an employer from coercing, influencing or attempting to coerce or influence employees' political action or political activity.
 Labor Code section 1102.5 Protects against retaliation for disclosing information, or because an employer believes an employee has disclosed information, to a government or law enforcement agency, to a person with authority over the employee, or to another employee who has the authority to investigate, discover, or correct a violation where employee reasonably believes that the information discloses a violation of a state or federal statute, or a violation of or noncompliance with a local, state, or federal rule or regulation. Protects an employee who refuses to participate in an activity that would result in a violation of a state or federal statute, or a violation of or noncompliance with a local, state, or federal rule or regulation. Protects an employee who exercised their rights under Labor Code section 1102.5 in any former employment. Protects an employee who is a family member of a person who has or is perceived to have engaged in any protected conduct. In addition to other remedies that might be available, a civil penalty of up to $10,000 may be awarded for each violation and reasonable attorney's fees may be awarded to a plaintiff who brings a successful action
 
-DECEMBER, 2020
+DECEMBER , 2017
 
-17 - 9
+17 - 10
 
 DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 Labor Code section 1171 Protects individuals participating in a national service program (e.g., AmeriCorps), for refusing to work overtime for any legitimate reason.
@@ -1617,7 +1633,7 @@ Labor Code section 1512 Prohibits retaliation against an employee who exercises 
 
 DECEMBER, 2020
 
-17 - 10
+17 - 11
 
 DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 Labor Code section 2814 Makes it unlawful to use E-Verify to check the employment authorization status of an existing employee or applicant who has not been offered employment at a time or in a manner not required by federal law, authorized by a federal agency, or as a condition of receiving federal funds. An employer who has offered employment to an applicant can lawfully utilize the federal E-Verify system to check the employment authorization status of a person who has been offered employment. Requires that the employer furnish to the employee any nomatch notification issued by the Social Security Administration or the United States Department of Homeland Security containing information specific to the employee's EVerify case. In addition to other remedies that might be available, each unlawful use of the E-Verify system carries a civil penalty not to exceed $10,000.
@@ -1630,7 +1646,7 @@ Effective January 1, 2021, AB 2658 added Labor Code section 6311.5, which prohib
 
 DECEMBER, 2020
 
-17 - 11
+17 - 12
 
 DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 6311.5 constitutes a misdemeanor and is subject to criminal penalties under California's Penal Code.
@@ -1655,7 +1671,7 @@ Filing Or Threatening To File Claim With Labor Commissioner. Labor Code § 98.6 p
 
 DECEMBER, 2020
 
-17 - 12
+17 - 13
 
 DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 3. Testified or is about to testify in any such proceeding, or
@@ -1679,7 +1695,7 @@ Penalty assessed against employer. Effective January 1, 2014, section 98.6(b)(3)
 
 DECEMBER, 2020
 
-17 - 13
+17 - 14
 
 17.5
 17.5.1 17.5.2 17.5.3
@@ -1700,7 +1716,7 @@ Disclosure need not be made to government agency. In 2014, the Legislature expan
 
 DECEMBER, 2020
 
-17 - 14
+17 - 15
 
 17.6.2
 
@@ -1724,7 +1740,7 @@ Protection Not Dependent on Ultimate Merits of Complaint; All Good Faith Complai
 
 DECEMBER, 2020
 
-17 - 15
+17 - 16
 
 DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 
@@ -2334,131 +2350,406 @@ AUGUST, 2019
 
 27 - 7
 
-DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+28 28.1
 
-28
-
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 INDEPENDENT CONTRACTOR vs. EMPLOYEE.
+In Dynamex Operations West, Inc. v. Superior Court of Los Angeles (2018) 4 Cal.5th 903, the California Supreme Court applied the "ABC test" to questions of employee vs. independent contractor status for wage order violations and Labor Code claims that derive from obligations in the wage orders. In the Dynamex decision, a unanimous California Supreme Court set forth a streamlined test for determining whether a worker is an employee or an independent contractor. In doing so, the Court disfavored use of a multifactor standard that requires consideration of all facts relevant to an employment relationship, such as the approach used by the California Supreme Court in S.G. Borello & Sons, Inc. v. Department of Industrial Relations (1989) 48 Cal.3d 341, and the "economic realities" test used under the federal Fair Labor Standards Act. The Court noted significant disadvantages associated with a multifactor standard ­ namely, it makes it difficult for both hiring entities and workers to know in advance how workers will be classified, often until a court issues a determination, and it makes it easier for hiring entities to evade obligations associated with being an employer, including providing critical protections under wage and hour laws. The "ABC test" adopted by the Supreme Court in Dynamex begins with an assumption of employee status, as does Borello, and requires a hiring entity claiming that a worker is an independent contractor to establish three specific criteria that overlap with factors considered under the Borello standard.
 
-28.1
+New legislation that took effect on January 1, 2020 ­ AB 5 ­ codifies the Dynamex decision and application of the ABC test for purposes of the Industrial Welfare Commission (IWC) wage orders and Labor Code violations relating to the wage orders. In addition, it expands use of the ABC test to all of the Labor Code and the Unemployment Insurance Code. Both the Dynamex decision and the legislation codifying it, AB 5, recognize that worker misclassification is a serious problem in the state, depriving workers of critical labor law protections, depriving the state of tax revenue, and depriving law-abiding businesses from a level playing field on which to compete. One of the specific intents of AB 5 is to "ensure workers who are currently exploited by being misclassified as independent contractors instead of recognized as employees have the basic rights and protections they deserve under the law, including a minimum wage, workers' compensation if they are injured on the job, unemployment insurance, paid sick leave, and paid family leave."
 
-Labor Code § 2750, Contract Of Employment: "The contract of employment is a contract by which one, who is called the employer, engages another, who is called the employee, to do something for the benefit of the employer or a third person."
+AB 5 added new Labor Code section 2750.3 to existing law. AB 2257 repealed Labor Code section 2750.3 and reorganized former section 2750.3 into new separate Labor Code sections, 2775-2787. Together AB 5 and AB 2257:
 
-28.2
+ Codify the ABC test for purposes of the Labor Code, the Unemployment Insurance Code, and the IWC wage orders.
+ Retain existing exceptions to employment status, as well as extensions of employer liability, contained in express language in the Labor Code, Unemployment Insurance Code, and IWC wage orders.
+ Provide for continued use of Borello where a court rules that the ABC test does not apply in situations other than the express exceptions contained in statutory and IWC wage order language.
+ Provide exemptions for certain jobs, industries, and contracting relationships,
 
-Burden Of Proof. The party seeking to avoid liability has the burden of proving that persons whose services he has retained are independent contractors rather than employees. In other words, there is a presumption of employment. (Labor Code § 3357; S.G. Borello & Sons, Inc. v. Dept. of Industrial Relations (1989) 48 Cal.3d 341 at pp. 349, 354.)
-
-28.3
-
-Multi-Factor Borello Test. In determining whether an individual providing service to another is an independent contractor or an employee, there is no single determinative factor. Rather, it is necessary to closely examine the facts of each service relationship and to then apply the "multi-factor" or "economic realities" test adopted by the California Supreme Court in Borello, supra, 48 Cal.3d 341.
-
-28.3.1
-
-The Test Prior To Borello. Prior to Borello, the leading case on this subject was Tieberg v. Unemployment Insurance Appeals Bd. (1970) 2 Cal.3d 943, which held that "the principle test of an employment relationship is whether the person to whom service is rendered has the right to control the manner and means of accomplishing the result desired." Under this test, "if the employer has the authority to exercise complete control, whether or not that right is exercised with respect to all details, an employer-employee relationship exists." Empire Star Mines Co. v. Cal. Emp. Com. (1946) 28 Cal.2d 33, 43.
-
-28.3.2
-
-Control As A Factor. Borello brought about a sharp departure from this overriding focus on control over work details. The growers who were found to be employers by the Borello court did not have the contractual authority to exercise supervision over work details, yet the court ruled that they retained "all necessary control" over their operations. The simplicity of the work, or the existence of a piece-rate based payment system, may make it unnecessary for an employer to assert direct control over work details and the employer may retain "all necessary control" by indirect means.
-
-28.3.2.1
-
-"The `control' test, applied rigidly and in isolation, is often of little use in evaluating the infinite variety of service arrangements." (Borello, 48 Cal.3d at p. 350) While the right to control the work remains a significant factor, the Borello court identified the following additional factors that must be considered:
-
-1. Whether the person performing services is engaged in an occupation or business distinct from that of the principal;
-2. Whether or not the work is a part of the regular business of the principal; 3. Whether the principal or the worker supplies the instrumentalities, tools, and the place
-for the person doing the work; 4. The alleged employee's investment in the equipment or materials required by his task; 5. The skill required in the particular occupation;
-6. The kind of occupation, with reference to whether, in the locality, the work is usually done under the direction of the principal or by a specialist without supervision;
-7. The alleged employee's opportunity for profit or loss depending on his managerial skill;
-8. The length of time for which the services are to be performed;
-9. The degree of permanence of the working relationship;
-
-JUNE, 2002
+JANUARY 2022
 
 28 - 1
 
-DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+28.2 28.3
 
-28.3.2.2
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+allowing use of the Borello test instead of the ABC test but often requiring the hiring entity to satisfy specific statutory prerequisites before it may use the Borello test.  State that the Attorney General or a city attorney, as specified, may file an action for injunctive relief to prevent the continued misclassification of employees as independent contractors.  State that new Labor Code section 2785 is declaratory of existing law with respect to the IWC wage orders and violations of the Labor Code relating to wage orders, and that it applies to the remainder of the Labor Code and the Unemployment Insurance Code beginning January 1, 2020, with the exception of workers' compensation, which went into effect on July 1, 2020. Burden Of Proof. The party seeking to avoid liability has the burden of proving that persons whose services he has retained are independent contractors rather than employees. In other words, there is a presumption of employment. (Dynamex, supra, fn. 24 citing Robinson v. George (1940) 16 Cal.2d 238, 242; Linton v. DeSoto Cab Co., Inc. (2017) 15 Cal.App.5th 1208, 1220-1221; Labor Code §§ 2775 (b)(1), 3357; S.G. Borello & Sons, Inc. v. Dept. of Industrial Relations (1989) 48 Cal.3d 341 at pp. 349, 354.)
+The ABC Test
+New Labor Code section 2775 provides that, for purposes of the Labor and Unemployment Insurance Codes and the IWC wage orders, "a person providing labor or services for remuneration shall be considered an employee rather than an independent contractor." This section sets forth a presumption of employee status. A hiring entity claiming that the person is an independent contractor instead of an employee must demonstrate all of the following conditions: (A) The person is free from the control and direction of the hiring entity in connection with the performance of the work, both under the contract for the performance of the work and in fact;
+(B) The person performs work that is outside the usual course of the hiring entity's business; and
+(C) The person is customarily engaged in an independently established trade, occupation, or business of the same nature as that involved in the work performed.
+The "failure to satisfy any one of the three parts itself establishes that the worker should be treated as an employee." (Dynamex, 4 Cal.5th at 963 (emphasis added).) In other words, to find employee status, it is only necessary to find that the hiring entity cannot demonstrate any one part ­ not all three parts ­ of the ABC test.
+In addition, the three-part test may be evaluated in any order that facilitates resolution of the question of employee status. The Supreme Court noted that "in many cases it may be easier and clearer to determine whether or not part B or part C of the ABC standard has been satisfied than to resolve questions regarding the nature or degree of a worker's freedom from the hiring entity's control for purposes of part A of the standard." (Dynamex, 4 Cal.5th at 963.) Below is detailed information on each factor of the ABC test, as explained by the Supreme Court in Dynamex.
 
-10. The method of payment, whether by time or by the job;
-11. Whether or not the parties believe they are creating an employer-employee relationship.
-Factors Cannot Be Applied Mechanically. These "individual factors cannot be applied mechanically as separate tests; they are intertwined and their weight depends often on particular combinations." These factors must be applied "with deference to the protective legislation ," in a manner that will effectuate the provisions of the Labor Code, in view of the history and fundamental purposes of the legislation. (Borello, supra, 48 Cal.3d at pp. 351, 353) For example, in the application of minimum wage legislation, "employees are those who as a matter of economic reality are dependent upon the business to which they render service." Real v. Driscoll Strawberry Associates, 603 F.2d 748, 754 (9th Cir.1979).
-
-28.3.3
-
-Application Of Economic Realities Test: In Yellow Cab Cooperative v. Workers Compensation Appeals Bd. (1991) 226 Cal.App.3d 1288, the court held that taxi drivers who pay a daily lease fee to a taxi company for the right to drive a taxi are employees rather than independent contractors, despite the company's contention that the drivers did not have to take radio calls, could drive wherever they wanted, could use the taxi to run personal errands or carry non-paying passengers, and could choose to work whenever they wanted. The court, while noting the absence of control over work details, reasoned that "to the extent [a driver's] freedom might appear to exceed that of a typical employee, it was largely illusory. If he wanted to earn a livelihood, he had to work productively and that meant carrying paying passengers." (Yellow Cab Cooperative, 226 Cal.App.3d at p.1299) The absence of control over details is of no consequence "where the principal retains pervasive control over the operation as a whole, the worker's duties are an integral part of the operation, the nature of the work makes detailed control unnecessary, and adherence to statutory purpose favors a finding of [employment]." (Id., 226 Cal.App. at p.1295)
-
-28.3.3.1
-
-Investment As A Criteria. A disproportionate level of investment by the employer is a factor that points towards an employer/employee relationship. For example, in a typical taxi lease arrangement, the taxi company owns the vehicle and the medallion, and pays for liability insurance, a radio dispatch system, towing, taxi repairs and maintenance. The driver pays a daily or weekly lease fee and may be responsible for filling the taxi with gasoline before returning it.
-
-28.3.3.2
-
-Business Of Employer As A Factor. Ownership of the vehicle used to perform the work may be a much less important factor in industries other than transportation. Even under the traditional, pre-Borello common law standard, a person making pizza deliveries was held to be an employee of the pizzeria, notwithstanding the fact that the delivery person was required to provide his own car and pay for gasoline and insurance. Toyota Motor Sales v. Superior Court, 220 Cal.App.3d 864, 876. "The modern tendency is to find employment when the work being done is an integral part of the regular business of the employer, and when the worker, relative to the employer, does not furnish an independent business or professional service." (Borello, supra, 48 Cal.3d at p.357)
-
-28.3.3.3
-
-Labels Not Dispositive. The existence of a written agreement purporting to establish an independent contractor relationship is not determinative. "The label placed by the parties on their relationship is not dispositive, and subterfuge will not be countenanced." (48 Cal.3d at p.349) The Labor Commissioner, and the courts, will look behind any such agreement in order to examine the facts that characterize the parties' actual relationship.
-
-JUNE, 2002
+JANUARY 2022
 
 28 - 2
 
 DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+28.3.1 Part A: Is the Worker Free from the Control and Direction of the Hiring Entity in the Performance of the Work, Both Under the Contract for the performance of the Work and in Fact?
 
-28.3.3.4
+General framework for Part A as discussed in Dynamex  A worker who is subject, either as a matter of contractual right or in actual practice, to the
+type and degree of control a business typically exercises over employees would be considered an employee. (Dynamex, 4 Cal.5th at 963.)  As discussed in Borello, depending on the nature of the work and overall arrangement between the parties, a business need not control the precise manner or details of the work in order to be found to have maintained the necessary control that an employer ordinarily possesses over its employees. (Id.)
 
-Length Of Service. The fact that a person may be hired to work for only a short period of time is also, obviously, not always a determinative factor. The so-called "share farmers", found to be employees in Borello, were engaged to provide services during the course of a sixtyday harvest season. Despite the seemingly temporary nature of this arrangement, the court observed that their seasonal positions are "permanently integrated into the [grower's] business."
+Case examples from other states applying Part A of the ABC test, as described by the Supreme Court in Dynamex  Work-at-home knitters and sewers who made clothing for a children's wear company
+were not sufficiently free of the company's control to satisfy part A of the ABC test, even though the knitters and sewers worked at home on their own machines at their own pace and on the days and at the times of their own choosing. The court reasoned that "[t]he degree of control and direction over the production of a retailer's product is no different when the sweater is knitted at home at midnight than if it were produced between nine and five in a factory. That the product is knit, not crocheted, and how it is to be knit, is dictated by the pattern provided by [the company]. To reduce part A of the ABC test to a matter of what time of day and in whose chair the knitter sits when the product is produced ignores the protective purpose of the [applicable] law." (Fleece on Earth v. Dep't of Empl. & Training (Vt. 2007) 923 A.2d 594, 599-600.)  Truck driver was not free from control within the meaning of part A of the ABC test where the hiring entity required the driver to keep the truck clean, to obtain the company's permission before transporting passengers, to go to the company's dispatch center to obtain assignments not scheduled in advance, and could terminate driver's services for tardiness, failure to contact the dispatch unit, or any violation of the company's written policy. (Western Ports v. Employment Sec. Dept. (Wash.Ct.App. 2002) 41 P.3d 510, 517-520)  A worker who specialized in historic reconstruction was sufficiently free of the construction company's control to satisfy part A of the ABC test where the worker set his own schedule, worked without supervision, purchased all materials he used on his own business credit card, and had declined an offer of employment proffered by the company because he wanted control over his own activities. (Great N. Constr., Inc. v. Dept. of Labor (Vt. 2016) 161 A.3d 1207, 1215.)
 
-28.3.3.5
+Part A "control" can be analyzed just as "necessary" control is analyzed under Borello In discussing Part A of the ABC test, the Supreme Court specifically referred to Borello to explain that a business need not exercise control over work details in order to have exercised all "necessary" control over the worker sufficient to create an employment relationship. Therefore, discussion of the control factor in Borello and other California cases following Borello is helpful in understanding and interpreting Part A of the ABC test:
 
-Effect Of Tax Status. The fact that a person who provides services is paid as an independent contractor, that is, without payroll deductions and with income reported by an IRS form 1099 rather than a W2, is of no significance whatsoever in determining employment status. "An employer cannot change the status of an employee to one of an independent contractor by illegally requiring him to assume a burden which the law imposes directly on the employer." Toyota Motor Sales v. Superior Court (1990) 220 Cal.App.3d 864, 877.
+ S.G. Borello & Sons, Inc. v. Dep't of Industrial Relations (1989) 48 Cal.3d 341 Even where "complete control" or "control over details" of the work (such as the exact manner and means of accomplishing the work) is lacking, the "right of control" test may be satisfied where an employer retains pervasive or all necessary control by direct or indirect means over the business operation as a whole, and the nature of the work makes
 
-28.4
-
-Services For Which A Contractor's License Is Required. Labor Code section 2750.5 provides, in its entirety:
-There is a rebuttable presumption affecting the burden of proof that a worker performing services for which a license is required pursuant to Chapter 9 (commencing with Section 7000) of Division 3 of the Business and Professions Code, or who is performing such services for a person who is required to obtain such a license is an employee rather than an independent contractor. Proof of independent contractor status includes satisfactory proof of these factors:
-(a) That the individual has the right to control and discretion as to the manner of performance of the contract for services in that the result of the work and not the means by which it is accomplished is the primary factor bargained for.
-(b) That the individual is customarily engaged in an independently established business.
-(c) That the individual's independent contractor status is bona fide and not a subterfuge to avoid employee status. A bona fide independent contractor status is further evidenced by the presence of cumulative factors such as substantial investment other than personal services in the business, holding out to be in business for oneself, bargaining for a contract to complete a specific project for compensation by project rather than by time, control over the time and place the work is performed, supplying the tools or instrumentalities used in the work other than tools and instrumentalities normally and customarily provided by employees, hiring employees, performing work that is not ordinarily in the course of the principal's work, performing work that requires a particular skill, holding a license pursuant to the Business and Professions Code, the intent by the parties that the work relationship is of an independent contractor status, or that the relationship is not severable or terminable at will by the principal but gives rise to an action for breach of contract.
-
-28.4.1
-
-In addition to the factors contained in subdivisions (a), (b), and (c), any person performing any function or activity for which a license is required pursuant to Chapter 9 (commencing with Section 7000) of Division 3 of the Business and Professions Code shall hold a valid contractors' license as a condition of having independent contractor status.
-For purposes of workers' compensation law, this presumption is a supplement to the existing statutory definitions of employee and independent contractor, and is not intended to lessen the coverage of employees under Division 4 and Division 5.
-For Purposes Of Workers' Compensation Coverage, Labor Code § 2750.5 establishes that if a person performs services for which a contractor's license is required (pursuant to Chapter 9 of Division 3 of the Business and Professions Code) and the person does not have such a license, there is an irrebuttable presumption that the individual is an employee. If such a person has a
-
-JUNE, 2002
+JANUARY 2022
 
 28 - 3
 
 DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+detailed control unnecessary. The growers who were found to be employers by the Borello court did not have the contractual authority to exercise supervision over work details, yet the court ruled that they retained "all necessary control" over their operations. Though purporting to give up control over the details of cucumber harvesting (e.g., exactly when the cucumbers are picked by the workers), the grower retained pervasive overall control of agricultural operations on its premises, from planting to sale of crops. All meaningful aspects of the business relationship (price, crop cultivation, fertilization and insect prevention, payment, and right to deal with buyers) were controlled by grower. Grower owned and cultivated the land for its own purposes. Without any participation by workers, grower decided to grow cucumbers, obtained a sale price formula from the one available buyer, planted the crop, and cultivated it throughout most of its growing cycle. Grower recruited cucumber harvesters. The harvest took place on grower's fields, at a time determined by the cucumber crop's maturity. Grower supplied the sorting bins and boxes, removed harvested cucumbers from its fields, transported cucumbers to market, sold them to the buyer, maintained documentation on workers' proceeds from the sale, and handed out the workers' checks (issued directly by the buyer at the grower's request). It was the simplicity of the harvesting work which made detailed supervision unnecessary. Thus, grower retained all necessary control over cucumber harvesting, which can only be done one way.  Yellow Cab Cooperative, Inc. v. Workers' Comp. Appeals Board (1991) 226 Cal.App.3d 1288 The test of "control" may be satisfied even where "complete control" or "control over details" is lacking ­ at least where the employer retains pervasive control over the operation as a whole, the worker's duties are an integral part of the operation, the nature of the work makes detailed control unnecessary, and adherence to statutory purpose favors a finding of coverage by the protective legislation. By both direct and indirect means, Yellow exercised pervasive control over the enterprise as a whole. Yellow had an obvious interest in the drivers' performance as drivers, and was not merely concerned with collecting rent from the leased cabs and protecting the leased property. For example, Yellow's dispatchers, who instructed drivers on what to do including where to go, had extensive control over the drivers' work. Drivers were coerced into accepting assignments from dispatchers whether or not they found them profitable, and dispatchers could demand that a driver return to the yard. If drivers violated the radio dispatcher rules, they could be written up and leases could be terminated. Indirect control over drivers was exercised by Yellow through the payment system and threat of termination. In addition, cab driving is usually done without supervision and does not involve the kind of expertise which requires an independent professional. Any actual independence enjoyed by drivers was inherent in the work and was not the product of any specialized skill. Thus, Yellow exercised all necessary control over various aspects of the work of drivers and treated the drivers as employees.  JKH Enterprises, Inc. v. Dep't of Industrial Relations (2006) 142 Cal.App.4th 1046 Pickup and delivery of papers or packages and driving in between, which constituted the heart of JKH's courier service business, did not require a high degree of skill. By obtaining the clients in need of the courier service and providing the workers to conduct the courier service, JKH retained all necessary control over the operation as a whole, even in the absence of JKH's control over the details of the work, and even though JKH was more concerned with the results of the work rather than the means of its accomplishment.
+28.3.2 Part B ­ Does the Worker Perform Work that is Outside the Usual Course of the Hiring Entity's Business?
 
-license, there is still a rebuttable presumption that the person is an employee, rather than an independent contractor, unless the above-listed factors contained in subdivisions (a), (b) and (c) can be satisfied.
-
-28.4.2
-
-The Courts Have Addressed The Application Of Section 2750.5, both within and outside the workers' compensation coverage context, to situations involving individuals who have contracted without a license:
-
-28.4.2.1
-
-Outside The Workers' Compensation Coverage Context, the case of Fillmore v. Irvine (1983) 146 Cal.App.3d 649, stands for the clear proposition that an unlicensed contractor cannot rely on the provisions of Labor Code section 2750.5 to remedy the fact that he is unlicensed. Thus, he is barred from maintaining an action for recovery of any "compensation for the performance of any act or contract" under the provisions of Business and Professions Code § 7031. The appellate court (overruling the trial court) found that:
-
-"While this provision of section 2750.5 may serve a salutary purpose of providing broad workers' compensation coverage to those injured on the job, (citation omitted) the provision results in untoward consequences when it is applied to determinations under sections 7031 and 7053 ... Thus, if section 2750.5 were applied to determinations under sections 7031 and 7053, every unlicensed person performing work on a job would be characterized as an employee and not an independent contractor. This result would repeal by implication section 7031's ban on recovery by an unlicensed contractor. (Fillmore, supra, at 657)"
-
-28.4.2.2
-
-The Fillmore case was reviewed by the California Supreme Court to the extent that the Court ordered the Reporter of Decisions to publish all portions of the opinion except Part IV, which the Court found did not meet the criteria for publication. Thus, the Court impliedly agreed with the above analysis, which is found in Part II.
-
-28.4.2.3 It must be noted, however, that this would not protect a contractor who takes the position that one who is clearly an employee is, in fact, an unlicensed contractor.
-
-28.4.2.4 Within the workers' compensation coverage context, the Fillmore court clearly indicated that section 2750.5 would apply. More importantly, in State Compensation Insurance Fund v. W.C.A.B. (Meier) (1985) 40 Cal.3d 5 at 11, the Supreme Court specifically held:
-
-We have concluded that section 2750.5, including the penultimate paragraph, must be interpreted as applying to workers' compensation cases. (emphasis added)
-
-JUNE, 2002
+JANUARY 2022
 
 28 - 4
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+General framework for Part B as discussed in Dynamex  The operative question for Part B is whether the worker's role within the hiring entity's usual business operations is more like that of an employee, or more like that of an independent contractor. (Dynamex, 4 Cal.5th at 959.)  One principal objective of the "suffer or permit to work" standard that the Supreme Court interpreted as the ABC test is to bring within the "employee" category all individuals who can reasonably be viewed as working in the hiring entity's business, meaning individuals who are reasonably viewed as providing services to the business in a role comparable to that of an employee, rather than in a role comparable to that of a traditional independent contractor. (Id. at 959.) Workers whose roles are most clearly comparable to those of employees include individuals whose services are provided within the usual course of the business of the entity for which the work is performed and thus who would ordinarily be viewed by others as working in the hiring entity's business and not as working, instead, in the worker's own independent business. (Id.)
+
+Fact scenarios noted by the Supreme Court in Dynamex
+
+ Where services are NOT part of the hiring entity's usual course of business: o When a retail store hires an outside plumber to repair a leak in a bathroom on its premises. o When a retail store hires an outside electrician to install a new electrical line.
+ Where services are part of the hiring entity's usual course of business: o When a clothing manufacturing company hires work-at-home seamstresses to make dresses from cloth and patterns supplied by the company that will thereafter be sold by the company. o When a bakery hires cake decorators to work on a regular basis on its customdesigned cakes.
+
+Case examples from other states applying Part B of the ABC test, as described by the Supreme Court in Dynamex
+
+ The cutting and harvesting of timber by an individual worker was work performed in the
+
+usual course of business of a timber management company whose business involved
+
+contracting for the purchase and harvesting of trees and the sale and delivery of the cut timber to customers. Rejecting the company's contention that the timber harvesting
+
+work was outside its usual course of business because the company did not currently
+
+own any timber harvesting equipment itself, the court upheld an administrative ruling
+
+that the harvesting work was "not `merely incidental' to [the company's] business, but
+
+rather was an `integral part of' that business." (McPherson Timberlands v.
+
+Unemployment Ins. Comm'n (Me. 1998) 714 A.2d 818, 821.)
+
+ The performance of live entertainers was within the usual course of business of a resort that advertised and regularly provided entertainment. (Appeal of Niadni, Inc. (N.H. 2014) 93 A.3d 728.)
+
+ An art instructor who taught art classes at a museum performed work within the usual course of the museum's business where the museum offered art classes on a regular and
+
+continuous basis, produced brochures announcing the art courses, class hours, registration fees and instructor's names, and discounted the cost of the classes for museum members. (Mattatuck Museum-Mattatuck Historical Soc'y v. Administrator, Unemployment Compensation Act (Conn. 1996) 679 A.2d 347, 351-352.)
+
+ A general construction company established that specialized historic restoration work performed by the worker in question was outside the usual course of the company's
+
+business within the meaning of part B where the work involved the use of specialized
+
+equipment and special expertise that the company did not possess and did not need for its
+
+JANUARY 2022
+
+28 - 5
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+usual general commercial and residential work. (Great N. Constr., Inc. v. Dept. of Labor (Vt. 2016) 161 A.3d 1207, 1215.)
+Part B can be analyzed just as the "regular" or "integral part" of the business is analyzed under Borello Borello instructed that various multifactor tests are "logically pertinent" to the determination of employee or independent contractor status, including the Restatement Second of Agency, Labor Code section 2750.5, and the "economic realities" test used under the Fair Labor Standards Act. Each of these tests include a factor akin to Part B's "outside the usual course of business." The Restatement includes "whether or not the work is a part of the regular business of the principal," Labor Code section 2750.5 includes "performing work that is not ordinarily in the course of the principal's work," and the "economic realities" test includes "whether the service rendered is an integral part of the alleged employer's business." As a result, Borello's discussion of when the work performed was a "regular" or "integral part" of the hiring entity's business, as well as cases following Borello, can aid in the analysis of Part B of the ABC test. If the work was a "regular" or "integral part" of the hiring entity's business, then the work would also be considered part of the "usual course" of the entity's business.  Borello "The harvesters form a regular and integrated portion of [the grower's] business operation." (48 Cal.3d at 357.)  Yellow Cab Cooperative Yellow's enterprise consists of operating a fleet of cabs for public transportation. Drivers are "active instruments" of that enterprise who provide an "indispensable" service to Yellow; the enterprise could no more survive without them than it could without working cabs. Drivers are a regular and integrated portion of Yellow's business operation. (226 Cal.App.3d at 1293-1294.)  JKH Enterprises Pickup and delivery of papers and packages and driving in between constituted the integral heart of JKH's courier service business. (142 Cal.App.4th at 1064.)
+
+28.3.3 Part C ­ Is the Worker Customarily Engaged in an Independently Established Trade, Occupation, or Business of the Same Nature as the Work Performed for the Hiring Entity?
+
+General framework for Part C as discussed in Dynamex  It is well established that a business cannot unilaterally determine a worker's status
+simply by assigning the worker the label "independent contractor" or by requiring the worker, as a condition of hiring, to enter into a contract that designates the worker an independent contractor. (Dynamex, 4 Cal.5th at 962.)  The term "independent contractor," when applied to an individual worker, ordinarily has been understood to refer to an individual who independently has made the decision to go into business for themselves. (Id.)  When a worker has not independently decided to engage in an independently established business but instead is simply designated an independent contractor by the unilateral action of a hiring entity, there is a substantial risk of misclassification. (Id.)  The fact that a company has not prohibited or prevented a worker from engaging in an independent business is not sufficient to establish that the worker has independently made the decision to go into business for themselves. (Id.)
+
+Fact scenarios noted by the Supreme Court in Dynamex JANUARY 2022
+
+28 - 6
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+An individual who independently has made the decision to go into business for themselves:  Generally takes the usual steps to establish and promote their independent business.
+Examples of this include o Incorporation, licensure, advertisements o Routine offerings to provide the services of the independent business to the public or to a
+number of potential customers, and the like.
+Case examples from other states applying Part C of the ABC test, as described by the Supreme Court in Dynamex  The fact that the hiring business permits a worker to engage in similar activities for other businesses is not sufficient to demonstrate that the worker is " `customarily engaged in an independently established ... business' " for purposes of part C of the ABC test. (JSF Promotions, Inc. v. Administrator (Conn. 2003) 828 A.2d 609, 613.)  "[T]he appropriate inquiry under part (C) is whether the person engaged in covered employment actually has such an independent business, occupation, or profession, not whether he or she could have one." (McGuire v. Dept. of Employment Security (Utah Ct.App. 1989) 768 P.2d 985, 988 (emphasis added).)  Under part C of the ABC test, "`[t]he adverb "independently" clearly modifies the word "established", and must carry the meaning that the trade, occupation, profession or business was established, independently of the employer or the rendering of the personal service forming the basis of the claim.'" (In re Bargain Busters, Inc. (Vt. 1972) 287 A.2d 554, 559.)  A hiring entity failed to prove that its siding installers were engaged in an independently established business where, although the installers provided their own tools, no evidence was presented that "the installers had business cards, business licenses, business phones, or business locations" or had "received income from any party other than" the hiring entity. (Brothers Const. Co. v. Virginia Empl. Comm'n (Va. Ct.App. 1998) 494 S.E.2d 478, 484.)  The hiring entity, a same-day pickup and delivery service, failed to establish that a bicycle courier was engaged in an independently established business where the entity did not present evidence that the courier "held himself out as an independent businessman performing courier services for any community of potential customers" or that he "had his own clientele, utilized his own business cards or invoices, advertised his services or maintained a separate place of business and telephone listing." (Boston Bicycle Couriers v. Deputy Dir. of the Div. of Empl. & Training (Mass.App.Ct. 2002) 778 N.E.2d 964, 971.)  A hiring entity established that auto repair appraisers were customarily engaged in an independently established business where the appraisers had their own independent licenses, possessed their own home offices, provided their own equipment, printed their own business cards, and sought work from other companies (despite a lack of evidence that the appraisers had actually worked for other businesses). (Southwest Appraisal Grp., LLC v. Adm'r, Unemployment Comp. Act (Conn. 2017) 155 A.3d 738, 741-752.)
+Part C can be analyzed in a manner similar to the Borello factor analyzing whether the worker is engaged in an independently established trade, occupation, or business As with Parts A and B of the ABC test, this part of the test does not introduce a new factor. However, Dynamex makes clear the question under part C is not whether the hiring entity has not prohibited or prevented the worker from engaging in an independently established business, or whether the worker could have so engaged, but instead, whether the worker "is customarily engaged in an independently established trade, occupation, or business." (Dynamex, 4 Cal.5th at 962-963 (emphasis added)
+
+28.4 Situations in which the ABC test will not apply JANUARY 2022
+
+28 - 7
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+Labor Code section 2775 provides that the ABC test is not required to be used in certain situations (separate from the occupation-based exemptions described below).
+28.4.1 Express exceptions from employment status and express extensions of employer liability remain in effect AB 5 retains existing express exceptions to the terms "employee," "employer," "employ," or "independent contractor" that are part of the Labor Code, Unemployment Insurance Code, or IWC wage orders. The bill references subdivision 2(E) of Wage Order No. 2, which establishes that individuals in the personal service industry, such as barbers and hairstylists, are considered to be employees under certain conditions. If the wage order definition of employee is not met then the statute, which has an explicit exception to ABC contained in Labor Code section 2778(L), may apply.
+Another example would be the specific definitions of "domestic work employee" and "domestic work employer" in the Domestic Worker Bill of Rights that exclude certain types of workers and employers from the overtime requirements of that law. (See Labor Code section 1450(b)(2)(A) & (c)(2)(A).) In such cases, the ABC test will not otherwise apply to establish employee or employer status; rather, the specific statutory language will continue to govern for specifying which employees are subject to overtime but the ABC test will apply to determine employment status when the independent contractor defense is raised.
+In addition, AB 5 retains any express "extensions of employer status or liability" contained in the Labor Code, Unemployment Insurance Code, or IWC wage orders. An example of an express extension of employer liability is the extension of liability under Labor Code section 2810.3 to a "client employer" for any wage and workers' compensation violations involving the employees of a labor contractor that were provided to perform labor within the client employer's usual course of business. The ABC test would not override or constitute a test that would need to be layered on top of this express extension of liability.1
+Another area involving express extensions of employer status or liability involves public employment. Where the IWC wage orders and Labor Code have extended protections to employees of public entities, the public employers remain liable for those protections. The IWC included public employees in limited sections of the wage orders, like minimum wage. For example, Section 1 of Wage Order 4 states: "(B) Except as provided in Sections 1, 2, 4, 10, and 20, the provisions of this order shall not apply to any employees directly employed by the State or any political subdivision thereof, including any city, county, or special district." Thus, the enumerated sections do extend employer liability to government entities. Additionally, there are provisions in the Labor Code that expressly extend obligations to government entities as employers, such as Labor Code section 1182.12. There are also provisions of the Labor Code such as sections 201, 202, 245.5, and 246 that expressly apply to the state as an employer, as well as section 203 which has been interpreted to apply to the state based on express legislative history. Therefore, wherever a government entity is currently liable as an employer under the wage orders, Labor Code, or Unemployment Insurance Code, AB 5 does not change the public
+
+1 This is the case with respect to the specific statutory definition and liability of a "client employer" under section
+
+2810.3, but not as to the determination of whether a worker who provides labor or services is an employee of the
+
+labor contractor. If a labor contractor asserts that a worker is an independent contractor and not an employee of the
+
+contractor, the ABC test would apply to that determination of employment status absent an applicable exemption.
+
+JANUARY 2022
+
+28 - 8
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+
+entity's underlying liability. What AB 5 does is codify that the ABC test applies, absent another applicable exemption, where these provisions that extend employer liability to a public entity do not contain a specific test for determining whether a worker is an employee or an independent contractor of the public entity.
+
+28.4.2 When a court rules that the ABC test does not apply An additional circumstance in which the ABC test does not apply is where a court determines that the ABC test cannot be used in a particular context based on grounds other than an express statutory exception to employment status. In such a situation, the determination of employee or independent contractor status will instead be governed by Borello.
+
+28.4.3 Exemptions for certain occupations, industries, and contracting relationships Labor Code sections 2776-2787 contain several exemptions for particular occupations, industries, and contracting relationships where the ABC test may not apply. Under AB 5, a limited number of occupations are simply exempt from application of the ABC test and the employment relationship will be analyzed under Borello. For other jobs, industries, or contracting relationships, additional statutory requirements must first be met by the hiring entity in order for Borello to apply. Further, for certain occupations, a Business & Professions Code standard will apply. Threshold statutory requirements must be met for many occupations and contracting relationships in order for the hiring entity to use the Borello standard instead of ABC. The threshold requirements are very similar, and overlap with, the analysis under Borello. AB 2257 changed some of the criteria for these exemptions from the ABC test and added some additional occupations, industries and contracting relationships.
+
+A list of the exemptions is provided below.
+
+Occupations where Borello applies instead of ABC under Labor Code section 2775 et seq.:  Certain occupations in connection with creating, marketing, promoting, or
+distributing sound recordings or musical compositions  Certain licensed insurance agents, brokers, and persons who provide underwriting
+inspections, premium audits, risk management, claims adjusting, third-party administration consistent with use of the term "third-party administrator," as defined in subdivision (cc) of Section 10112.1 of Title 8 of the California Code of Regulations, or loss control work for the insurance and financial service industries  Certain licensed physicians, surgeons, dentists, podiatrists, psychologists, or veterinarians  Certain licensed attorneys, architects, landscape architects, engineers, private investigators and accountants  Certain registered securities broker-dealers or investment advisers or their agents and representatives  Certain direct salespersons  Certain manufactured housing salespersons  Certain licensed commercial fishers (only through December 31, 2022 unless extended by the Legislature)  Certain newspaper distributors or carriers (only through December 31, 2024 unless extended by the Legislature)  Certain persons engaged by an international exchange visitor program
+
+JANUARY 2022
+
+28 - 9
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+ Certain competition judges  Certain home inspectors, as defined in Section 7195 of the Business and Professions
+Code, and subject to the provisions of Chapter 9.3 (commencing with Section 7195) of Division 3 of that code.
+Occupations or contracting relationships where Labor Code section 2775 et seq. requires that additional requirements must first be met in order to use Borello instead of ABC:  Certain professional services contracts for marketing; human resources
+administration; travel agents; graphic design; grant writers; fine artists; enrolled agents licensed to practice before the IRS; payment processing agents; still photographers / photojournalists; videographers; photo editors to a digital content aggregator; freelance writers, translators, editors, copy editors, illustrators, or newspaper cartoonists; content contributors, advisors, producers, narrators, or cartographers for a journal, book, periodical, evaluation, other publication or educational, academic, or instructional work in any format or media; licensed barbers, cosmetologists, electrologists, estheticians, or manicurists (manicurists only through December 31, 2024); specialized performing arts Master Class Instructors, appraisers, registered professional foresters, and data aggregators, as defined. Borello applies to determine whether the individual is an employee of the hiring entity if initial requirements are met.  Relationships between two individuals working on a single engagement event, defined as a stand-alone non-recurring event in a single location, or a series of events in the same location no more than once a week. Borello applies if initial requirements are met.  Certain individuals performing work under a subcontract in the construction industry, including construction trucking (with certain specific conditions applicable to construction trucking only through December 31, 2024). Borello and Labor Code section 2750.5 apply to determine whether the individual is an employee of the contractor if initial requirements are met.  Certain service providers who are referred to customers through referral agencies to provide services including, but not limited to, graphic design, web design, photography, tutoring, consulting, youth sports coaching, caddying, wedding or event planning, services provided by wedding and event vendors, minor home repair, moving, errands, furniture assembly, animal services, dog walking, dog grooming, picture hanging, pool cleaning, yard cleanup, and interpreting. Borello applies to determine whether the service provider is an employee of the referral agency if initial requirements are met.
+o The following services are excluded: services provided in an industry
+designated as a high hazard industry, janitorial, delivery, courier,
+transportation, trucking, agricultural labor, retail, logging, in-home care, or
+construction services other than minor home repair.
+ Certain individuals performing services pursuant to a third party's contract with a motor club to provide motor club services. Borello applies to determine whether the individual is an employee of the motor club if initial requirements are met.
+
+JANUARY 2022
+
+28 - 10
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+ Certain bona fide business-to-business contracting relationships. Borello applies to determine whether the business providing services is an employee of the business contracting for the services if initial requirements are met.
+For two specific industries, special rules under Labor Code section 2778(b) require examination under the Business and Professions Code:  Certain real estate licensees, for whom the test of employee or independent contractor
+status is governed by section 10032(b) of the Business and Professions Code. (If that section is not applicable, then Borello is the applicable test for purposes of the Labor Code, except ABC will be the applicable test for purposes of workers' compensation as of July 1, 2020.)  Certain repossession agencies, for which the determination of employee or independent contractor status is governed by Section 7500.2 of the Business and Professions Code. The exemptions from the ABC test for certain industries, occupations, or contracting relationships may involve some complicated rules and criteria which are not set forth above. Employers and workers should seek independent advice and counsel if they have questions about the applicability of any exemption to their particular case.
+
+Application of ABC test and exemptions for work performed before January 1, 2020
+
+Labor Code section 2785 contains several statements regarding the retroactive or prospective application of the ABC test. First, it states that the new section of the Labor Code codifying the ABC test "does not constitute a change in, but is declaratory of, existing law with regard to wage orders of the Industrial Welfare Commission and violations of the Labor Code relating to wage orders." In other words, the ABC test applies to existing or pending claims involving the wage orders and Labor Code provisions relating to the wage orders. The ABC test is already in effect for these purposes, as a result of Dynamex. In Vasquez v. Jan-Pro Franchising International, Inc. (2021) 10 Cal.5th 944, the California Supreme Court concluded "that the standard set forth in Dynamex applies retroactively -- that is, to all cases not yet final as of the date our decision in Dynamex became final -- we rely primarily on the fact that Dynamex addressed an issue of first impression. It did not change a settled rule on which the parties below had relied. No decision of this court prior to Dynamex had determined how the "suffer or permit to work" definition in California's wage orders should be applied in distinguishing employees from independent contractors. Particularly because we had not previously issued a definitive ruling on the issue addressed in Dynamex, we see no reason to depart from the general rule that judicial decisions are given retroactive effect." (Id. at p. 948.)
+In addition, because the ABC test is already in effect for the claims referenced above that pre-date January 1, 2020 (the effective date of AB 5), section 2785(b) allows an employer to use any of the new statutory exemptions to the ABC test retroactively to "relieve an employer from liability" for existing claims pending at the time the law goes into effect. This means that the employer would not be subject to the ABC test with respect to these claims if it establishes that the job or occupation falls within one of the exemptions ­ including if the claim involves work performed before January 1, 2020.
+
+JANUARY 2022
+
+28 - 11
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+Finally, with respect to all other provisions of the Labor Code and the Unemployment Insurance Code, section 2785(c) states that the ABC test applies prospectively "to work performed on or after January 1, 2020." A separate section of the bill delayed the initiation date to July 1, 2020 for workers' compensation.
+When implementing AB 5 for claims or violations involving work performed prior to January 1, 2020, the Labor Commissioner's Office will be required to interpret which provisions of the Labor Code "relate to" the wage orders such that the ABC test applies. The reasoning of the Labor Commissioner's Office Opinion Letter issued in May 2019 explains a framework for determining which Labor Code claims relate to the wage orders.2
+The May 2019 opinion letter explains that, post-Dynamex, the ABC test applies to Labor Code sections enforcing wage order obligations, including minimum wage, overtime, reporting time pay, recordkeeping (including itemized pay stub obligations), meal and rest periods, and reimbursement for cash shortages, breakage, or loss of equipment, as well as for required uniforms, tools, and equipment. The letter also notes that, because an employee who brings a waiting time penalty claim under Labor Code section 203 for failure to timely pay minimum or overtime wages after termination is seeking to enforce those wage obligations in the wage orders, it would also be appropriate to apply the ABC test to section 203. The letter further explains that for workers whose regular rate of pay is higher than the minimum wage (e.g., the minimum wage of $11 is part of the $25 regular wage per hour), where the worker is not paid at all or is paid below the minimum wage, this is a minimum wage violation even though the worker has a higher hourly contract wage. Consequently, the ABC test applies to contract wage claims that serve to enforce payment of minimum wage (or overtime). Finally, the letter notes that courts have applied the ABC test to Labor Code provisions such as liquidated damages under section 1194.2 (which serves to enforce payment of minimum wage).
+Based on the rationale set forth in the May 2019 opinion letter, with respect to work performed prior to January 1, 2020, the ABC test applies to Labor Code provisions that serve to enforce underlying wage order obligations. Thus, in addition to the Labor Code provisions noted in the opinion letter, this would include applying the ABC test to claims under Labor Code section 203.1, and anti-retaliation provisions when the alleged retaliation relates to enforcement of rights under a wage order. Labor Code claims involving work performed prior to January 1, 2020 that do not serve to enforce the wage orders should be analyzed under Borello. The need to undertake his kind of analysis is time-limited; as the statutes of limitation expire for claims based on work performed prior to January 1, 2020, the analysis will become simpler.3
+
+2 See Opinion Letter, Application of the "ABC" Test to Claims Arising Under Wage Orders,
+
+https://www.dir.ca.gov/dlse/opinions/2019-05-03.pdf.
+
+3 For statute-based wage claims, the three-year statute of limitations for work performed prior to January
+
+1, 2020 will expire in 2023, and for written contract-based wage claims, the statute of limitations for work
+
+performed prior to January 1, 2020 will expire in 2024. (See Cal. Code Civ. Proc., §§ 337, 338.)
+
+JANUARY 2022
+
+28 - 12
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+
+ABC Test Applies for Work Performed Before January 1, 2020
+
+Borello Applies for Work Performed Before January 1, 2020
+
+All wage order obligations Minimum wage
+
+Labor Code claims not listed in the first column4
+
+Overtime
+
+Meal and rest periods
+
+Recordkeeping
+
+Itemized pay stub
+
+Reporting time
+
+Waiting time penalties where minimum wages or overtime were not paid
+
+Contract wage violations where failure to pay also violates minimum wage or overtime requirements
+
+Liquidated damages
+
+Reimbursement of business expenses5
+
+Insufficient funds/bounced check penalties where minimum wages or overtime were not paid
+
+Retaliation claims that relate to enforcing rights under any wage order
+
+4 This is subject to change based on evolving case law.
+
+5 In general, for claims alleging failure to reimburse business expenses under Labor Code section 2802,
+
+the ABC test should be the test utilized, absent any applicable exemption or court ruling otherwise, for
+
+work performed prior to January 1, 2020 ­ even when there is a "mixed" reimbursement claim that arises
+
+both under the wage order and potentially outside the wage order (e.g., a reimbursement claim for
+
+uniforms and also for mileage). Indeed, courts have recognized how enforcement of section 2802
+
+implicates enforcement of an employer's wage obligations. (See, e.g., In re Work Uniform Cases (2005)
+
+133 Cal.App.4th 328; Stuart v. RadioShack Corp. (N.D. Cal. 2009) 641 F.Supp.2d 901; Dep't of
+
+Industrial Relations v. UI Video (1997) 55 Cal.App.4th 1084; Vasquez v. Franklin Management Real
+
+Estate Fund, Inc. (2013) 222 Cal.App.4th 819.)
+
+JANUARY 2022
+
+28 - 13
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+
+28.5
+
+The Borello Test
+
+Under the Borello test, just as under the ABC test, it is assumed that the worker is an employee and the hiring entity must prove that the worker is an independent contractor. Borello is referred to as a "multifactor" test because it requires consideration of all potentially relevant facts ­ no single factor controls the determination. It is necessary to consider the nature of the work and the overall arrangement between the parties on a caseby-case basis in light of the purpose of the law. The test is construed with particular reference to effectuating the remedial purposes of social welfare legislation, and will often result in an outcome similar to the ABC test.
+Under the multifactor approach adopted by the California Supreme Court in Borello ­ applied specifically to wage and hour claims in Linton v. DeSoto Cab Co., Inc. (2017) 15 Cal.App.5th 1208 ­ whether the person who receives the services (the potential employer) has the right to control the work is one factor that should be considered, but the control need not actually be exercised or be detailed or direct. Other relevant factors include: 1. Whether the worker performing services holds themselves out as being engaged in an occupation or business distinct from that of the employer;
+2. Whether the work is a regular or integral part of the employer's business;
+3. Whether the employer or the worker supplies the instrumentalities, tools, and the place for the worker doing the work;
+4. Whether the worker has invested in the business, such as in the equipment or materials required by their task;
+5. Whether the service provided requires a special skill;
+6. The kind of occupation, and whether the work is usually done under the direction of the employer or by a specialist without supervision;
+7. The worker's opportunity for profit or loss depending on their managerial skill;
+8. The length of time for which the services are to be performed;
+9. The degree of permanence of the working relationship;
+10. The method of payment, whether by time or by the job;
+11. Whether the worker hires their own employees;
+12. Whether the employer has a right to fire at will or whether a termination gives rise to an action for breach of contract; and
+13. Whether or not the worker and the potential employer believe they are creating an employer-employee relationship (this may be relevant, but the legal determination of employment status is not based on whether the parties believe they have an employeremployee relationship).
+
+JANUARY 2022
+
+28 - 14
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+
+Courts have emphasized different factors in the multifactor test depending on the circumstances. For example, where the employer does not control the work details, an employer-employee relationship may be found if (1) the employer retains control over the operation as a whole, (2) the worker's duties are an integral part of the operation, and (3) the nature of the work makes detailed control unnecessary. (Yellow Cab Cooperative v. Workers Compensation Appeals Board (1991) 226 Cal.App.3d 1288.)
+
+28.5.1
+28.5.2 28.5.3
+
+Control As A Factor. Borello brought about a sharp departure from control over work details. The growers who were found to be employers by the Borello court did not have the contractual authority to exercise supervision over work details, yet the court ruled that they retained "all necessary control" over their operations. The simplicity of the work, or the existence of a piece-rate based payment system, may make it unnecessary for an employer to assert direct control over work details and the employer may retain "all necessary control" by indirect means. In Ayala v. Antelope Valley Newspapers, Inc. (2014) 59 Cal.4th 522, 532-40, the Supreme Court explained that the proper standard in evaluating the control factor under Borello is the right to exercise control not on how that right was actually exercised. (Dynamex, (2018) 4 Cal.5th 903 at fn. 15.)
+"The `control' test, applied rigidly and in isolation, is often of little use in evaluating the infinite variety of service arrangements." (Borello, 48 Cal.3d at p. 350.) While the right to control the work remains a significant factor, the Borello court identified the above referenced factors that also must be considered.
+Factors Cannot Be Applied Mechanically. These "individual factors cannot be applied mechanically as separate tests; they are intertwined and their weight depends often on particular combinations." These factors must be applied "with deference to the protective legislation ," in a manner that will effectuate the provisions of the Labor Code, in view of the history and fundamental purposes of the legislation. (Borello, supra, 48 Cal.3d at pp. 351, 353.) For example, in the application of minimum wage legislation, "employees are those who as a matter of economic reality are dependent upon the business to which they render service." (Real v. Driscoll Strawberry Associates (9th Cir. 1979) 603 F.2d 748, 754.).
+
+28.5.4
+
+Application Of the Borello Test: In Yellow Cab Cooperative v. Workers Compensation Appeals Bd. (1991) 226 Cal.App.3d 1288, the court held that taxi drivers who pay a daily lease fee to a taxi company for the right to drive a taxi are employees rather than independent contractors, despite the company's contention that the drivers did not have to take radio calls, could drive wherever they wanted, could use the taxi to run personal errands or carry non-paying passengers, and could choose to work whenever they wanted. The court, while noting the absence of control over work details, reasoned that "to the extent [a driver's] freedom might appear to exceed that of a typical employee, it was largely illusory. If he wanted to earn a livelihood, he had to work productively and that meant carrying paying passengers." (Yellow Cab Cooperative, 226 Cal.App.3d at p.1299.) The absence of control over details is of no consequence "where the principal retains pervasive control over the operation as a whole, the worker's duties are an integral part of the operation, the nature of the work makes detailed control unnecessary, and adherence to statutory purpose favors a finding of [employment]." (Id., 226 Cal.App. at p.1295.)
+
+28.5.5
+
+Investment As A Criteria. A disproportionate level of investment by the employer is a factor that points towards an employer/employee relationship. For example, in a typical
+
+JANUARY 2022
+
+28 - 15
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+
+28.5.6 28.5.7 28.5.8 28.5.9
+28.5.10 28.5.1
+
+taxi lease arrangement, the taxi company owns the vehicle and the medallion, and pays for liability insurance, a radio dispatch system, towing, taxi repairs and maintenance. The driver pays a daily or weekly lease fee and may be responsible for filling the taxi with gasoline before returning it.
+Business Of Employer As A Factor. "The modern tendency is to find employment when the work being done is an integral part of the regular business of the employer, and when the worker, relative to the employer, does not furnish an independent business or professional service." (Borello, supra, 48 Cal.3d at p.357.)
+Labels Not Dispositive. The existence of a written agreement purporting to establish an independent contractor relationship is not determinative. "The label placed by the parties on their relationship is not dispositive, and subterfuge will not be countenanced." (48 Cal.3d at p.349.) The Labor Commissioner, and the courts, will look behind any such agreement in order to examine the facts that characterize the parties' actual relationship.
+Length of Service. The fact that a person may be hired to work for only a short period of time is also, obviously, not always a determinative factor. The so-called "share farmers", found to be employees in Borello, were engaged to provide services during the course of a sixty-day harvest season. Despite the seemingly temporary nature of this arrangement, the court observed that their seasonal positions are "permanently integrated into the [grower's] business."
+Effect of Tax Status. The fact that a person who provides services is paid as an independent contractor, that is, without payroll deductions and with income reported by an IRS form 1099 rather than a W2, is of no significance whatsoever in determining employment status. "An employer cannot change the status of an employee to one of an independent contractor by illegally requiring him to assume a burden which the law imposes directly on the employer." (Toyota Motor Sales v. Superior Court (1990) 220 Cal.App.3d 864, 877.)
+Tools and Equipment. Even under the traditional, pre-Borello common law standard, a person making pizza deliveries was held to be an employee of the pizzeria, notwithstanding the fact that the delivery person was required to provide his own car and pay for gasoline and insurance. (Toyota Motor Sales v. Superior Court, 220 Cal.App.3d 864, 876.)
+Services For Which A Contractor's License Is Required.
+
+ABC and the holding in Dynamex do not apply to the relationship between a contractor and an individual performing work pursuant to a subcontract in the construction industry, and instead the determination of whether the individual is an employee of the contractor shall be governed by Section 2750.5 and Borello if the contractor demonstrates that all of the statutory prerequisites are satisfied.
+
+AB 5 and the construction exemption do not affect use of Labor Code section 218.7, under which the Labor Commissioner's Office can enforce liability for unpaid wages and interest (but not liquidated damages or penalties) against a direct contractor in private construction based on wages owed to workers by a subcontractor at any tier acting under, by, or for the direct contractor.
+
+JANUARY 2022
+
+28 - 16
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+Although, Private homeowners are not subject to the Construction Industry exemption when they hire workers to perform construction work for their homes because the homeowners are not contractors in the construction industry, as construed above, private homeowners are subject to the test set forth in Labor Code section 2750.5, discussed below, because Labor Code section 2750.5 constitutes both an extension of employer status or liability and an exception to the term "independent contractor" ­ such express provisions remain in effect pursuant to Labor Code section 2775.
+The worker must be performing work under a subcontract with a contractor in the construction industry. The term "construction industry" is not defined in the statute. However, Wage Order 16 contains a definition for "construction occupations," (at section 2(C)) namely, "all job classifications associated with construction, including but not limited to work involving alteration, demolition, building, excavation, renovation, remodeling, maintenance, improvement, and repair work, by the California Business and Professions Code, Division 3, Chapter 9, Sections 7025 et seq., and any other similar or related occupations or trades." Further, under the industry-based wage orders, "industry" means "any industry, business, or establishment operated for the purpose of" providing services or activities in that industry. (See, e.g., Wage Order 1 section 2(H).) Therefore, for the purposes of this exemption, the term "construction industry" should be construed to mean a subcontract for the type of work listed in the Wage Order 16 definition with a contractor that operates a business providing construction services. Note that an individual performing work pursuant to a subcontract in the construction industry could be a sole proprietor who enters into a subcontract with a contractor as well as workers hired by the subcontractor to perform work pursuant to the subcontract.
+If the worker is performing work in the construction industry as discussed above, the next step is for the contractor to demonstrate that all of the following seven criteria are satisfied:
+(1) The subcontract is in writing, and,
+(2) The subcontractor is licensed by the Contractors State License Board and the work is within the scope of that license, and,
+(3) If the subcontractor is domiciled in a jurisdiction that requires the subcontractor to have a business license or business tax registration, the subcontractor has the required business license or business tax registration and,
+(4) The subcontractor maintains a business location that is separate from the business or work location of the contractor, and,
+(5) The subcontractor has the authority to hire and to fire other persons to provide or to assist in providing the services, and,
+(6) The subcontractor assumes financial responsibility for errors or omissions in labor or services as evidenced by insurance, legally authorized indemnity obligations, performance bonds, or warranties relating to the labor or services being provided, and,
+
+JANUARY 2022
+
+28 - 17
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+(7) The subcontractor is customarily engaged in an independently established business of the same nature as that involved in the work performed.
+
+If all of the criteria have been met, Labor Code section 2750.5 applies to determine if the subcontractor is an employee or an independent contractor. If any of the criteria have not been met, then the ABC test applies to the contractor in the Construction Industry. If the contractor has failed to rebut the presumption of employee status under section 2750.5 ­ the worker is an employee and no further analysis is necessary. If the contractor has established that the worker is an independent contractor under section 2750.5, then Borello must also be applied to determine employment status.
+
+28.6.1
+
+Labor Code Section 2750.5 The factors that must be met to meet the burden of establishing independent contractor status are set forth in the statute, including the requirement that such person "shall hold a valid contractor's license as a condition of having independent contractor status" if a license is required by Chapter 9 commencing with section 7000 of Division 3 of the Business and Professions Code. Therefore, an unlicensed contractor is the employee of the person who hired him or her.
+
+Under Labor Code section 2750.5, there is a rebuttable presumption that a worker performing services for which a Contractors State Licensing Board license is required, or who is performing such services for a person who is required to obtain such a license, is an employee rather than an independent contractor. Proof of independent contractor status includes satisfactory proof of these factors:
+
+(a) That the individual has the right to control and discretion as to the manner of performance of the contract for services in that the result of the work and not the means by which it is accomplished is the primary factor bargained for.
+
+(b) That the individual is customarily engaged in an independently established business.
+
+(c) That the individual's independent contractor status is bona fide and not a subterfuge to avoid employee status. A bona fide independent contractor status is further evidenced by the presence of cumulative factors such as substantial investment other than personal services in the business, holding out to be in business for oneself, bargaining for a contract to complete a specific project for compensation by project rather than by time, control over the time and place the work is performed, supplying the tools or instrumentalities used in the work other than tools and instrumentalities normally and customarily provided by employees, hiring employees, performing work that is not ordinarily in the course of the principal's work, performing work that requires a particular skill, holding a license pursuant to the Business and Professions Code, the intent by the parties that the work relationship is of an independent contractor status, or that the relationship is not severable or terminable at will by the principal but gives rise to an action for breach of contract.
+
+There is a long line of cases that hold that LC section 2750.5 operates to make the employees of an unlicensed subcontractor employees of the general contractor. (See e.g., Hunt Building Corp. v. Bernick (2000) 79 Cal.App,4th 213.) This is true not only for unemployment and workers' compensation purposes, but also for wage and hour purposes.
+
+JANUARY 2022
+
+28 - 18
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+
+(Sanders Construction Co. v. Cerda (2009) 175 Cal.App.4th 430.)
+Business and Professions Code section 7026, a part of the Contractors' State License Law ("CSLL") provides, "a contractor is any person who undertakes to or offers to undertake to ..., or does himself or herself or by or through others, construct, alter, [or] repair ... any ... structure, project, development or improvement...." (B&P Code § 7026.) Section 7031, subdivision (a) provides that no person "engaged in the business or acting in the capacity of a contractor" can bring an action for compensation for work requiring a contractor's license if the person was not properly licensed at all times during the performance of the work. Section 7031, subdivision (b) goes further, permitting a person "who utilizes the services of an unlicensed contractor" to bring an action for disgorgement of "all compensation paid to the unlicensed contractor." Both of these sub sections of section 7031 are designed to enforce compliance with the CSLL.
+B&P Code section 7053, however, prohibits application of section 7031 if the following are satisfied:
+(1) The person receives wages as their sole compensation
+- "wages," as defined by Labor Code section 200, includes "all amounts for labor performed by employees of every description, whether the amount is fixed or ascertained by the standard of time, task, piece, commission basis, or other method of calculation." Both an agreement to pay the person a specified amount per hour worked could be an agreement to pay wages, so too is an agreement to pay the person a specified amount for the completion of a particular project or task. And sometimes bona fide independent contractors charge by the project, other times by the hour.
+(2) The person does not customarily engage in an independently established business.
+- The factors enumerated at LC section 2750.5(c) for use in determining whether "the individual's independent contractor status is bona fide" provides a useful analysis.
+(3)The person does not have the right to control or discretion as to manner of performance
+- the test is not whether the principal actually exercises this control, but whether they have the right to control.
+Sanders Construction Co. v. Cerda (2009) 175 Cal.App.4th 430, explains the way these statutes relate with one another. Sanders arose with the filing of seven Labor Commissioner wage claims against a general contractor. Six of the claimants were employees of an unlicensed subcontractor, the seventh was the unlicensed subcontractor. The Labor Commissioner's hearing officer dismissed the subcontractor's claim, finding that he misrepresented himself as a licensed contractor, and that he was acting as an independent contractor (though not licensed), and as such, concluded that the Labor Commissioner had no jurisdiction over the claim. The subcontractor did not challenge the dismissal. As for the six employees of the unlicensed subcontractor, the hearing officer held that the general contractor was their statutory employer, and thus, awarded wages. The general contractor filed timely de novo appeals. The trial court found, like the hearing officer, in favor of the employees. The general contractor appealed. The court of appeal also found in favor of the employees. The court's decision provides in part:
+"[The general contractor's] additional argument is that making respondents the statutory employees of [the general contractor] contravenes Business and Professions Code section 7031, which prohibits an unlicensed contractor from recovering payment for services. Under section 7031, for example, [the unlicensed subcontractor] was properly denied his
+
+JANUARY 2022
+
+28 - 19
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+wage claim. But [the general contractor] advocates extending that prohibition to [the subcontractor's] employees. [The general contractor's] reliance on Fillmore v. Irvine (1983) 146 Cal.App.3d 649, 194 Cal.Rptr. 319 is misplaced because it is factually distinguishable. In Fillmore, plaintiff was a drywall finisher who acted as an unlicensed independent contractor and hired other drywall workers. (Id. at pp. 652­654, 194 Cal.Rptr. 319.) Like [the subcontractor here], the Fillmore plaintiff was not entitled to recover his wages under Business and Professions Code section 7031 or as a statutory employee under section 2750.5."
+"Respondents in the present case were employees who did not act like unlicensed independent contractors. Business and Professions Code section 7053 explains that the prohibition of Business and Professions Code section 7031 does not apply to a person who receives wages as his sole compensation, who does not engage in an independent business, and who cannot control how the work is performed. The record offers no evidence that the six claimants were not employees as described under Business and Professions Code section 7053 and [the general contractor here] makes no such argument. Respondents were not required to be licensed as set forth in Business and Professions Code section 7031. Therefore, pursuant to Business and Professions Code section 7053, Business and Professions Code section 7031 does not prohibit the six claimants from suing for their wages." Sanders Constuction Co., supra, 175 Cal.App.4th at 436.
+For Purposes Of Workers' Compensation Coverage, Labor Code § 2750.5 establishes that if a person performs services for which a contractor's license is required (pursuant to Chapter 9 of Division 3 of the Business and Professions Code) and the person does not have such a license, there is an irrebuttable presumption that the individual is an employee. If such a person has a license, there is still a rebuttable presumption that the person is an employee, rather than an independent contractor, unless the above-listed factors contained in subdivisions (a), (b) and (c) of Section 2750.5 can be satisfied. See Fillmore v. Irvine (1983) 146 Cal.App.3d 649, 656-57. Workers' Compensation does not apply Business and Professions Code sections 7031 and 7053 because the workers are not seeking compensation.
+
+JANUARY 2022
+
+28 - 20
 
 29 29.1
 29.1.1 29.1.2 29.2 29.2.1
@@ -4082,10 +4373,16 @@ MARCH, 2006
 
 DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 
-43.7.1.1 43.7.1.2 43.7.1.3
+43.7.1.1
 
 Examples: a clerical worker employed by a maker of toys works in the manufacturing company covered by Order 1; a driver who delivers supplies for a chain of beauty shops is employed in Order 2, the personal service industry, and a mechanic who works for a retail tire chain is covered by Order 7.
+
+43.7.1.2
+
 Determining Industry Order Coverage. A subsidiary of a large corporation may be covered by the order that the parent corporation is covered by if the parent corporation exercises control over the day-to-day operations of the subsidiary; but if the subsidiary is simply a part of a corporate ownership but not subject to the day-to-day control of the parent corporation as to the operations of the subsidiary, the business of the subsidiary will be the focus of the test to determine which Order applies.
+
+43.7.1.3
+
 Example. A large supermarket chain also owns a bakery. The supermarket chain does not exercise control over the day-to-day operations of the bakery. The bakery is in direct competition with other bakers in the area which are subject to Order 1 (manufacturing). Since the bakery is not subject to the day-to-day control of the parent corporation (which would be under Order 7, Mercantile) the employees of the subsidiary bakery would be covered by Order 1 (Manufacturing). (See also, O.L. 1993.11.03, 1994.10.03)
 
 43.7.2 43.7.2.1
@@ -5234,7 +5531,7 @@ DECEMBER, 2018
 
 49.2.5
 
-Weighted Average Method. Where two rates of pay are paid during a workweek, the California method for determining the regular rate of pay for ca lculating overtim e in that workweek mirrors the federal method, based upon the weighted average of all hourly rates paid. ( See 29 CFR § 778.115 ) Initially, therefore, it must be predicated upon the finding that there are established hourly rates being paid. The rate will be established by adding all hours worked in the week and dividing that number into the total compensation for the week. This is co nsistent w ith the provisions of Skyline v. DIR (1985) 165 Cal.App.3d 239, since the hourly rates have already been established and what needs to be established now is the weighted average of those rates for purposes of over time pa yment.
+Weighted Average Method. Where two rates of pay are paid during a workweek, the California method for determining the regular rate of pay for ca lculating overtim e in that workweek mirrors the federal method, based upon the weighted average of all hourly rates paid. ( See 29 CFR § 778.115 ) Initially, therefore, it must be predicated upon the finding that there are established hourly rates being paid. The rate will be established by adding all hours worked in the week and dividing that number into the total compensation for the week. This is co nsistent w ith the provisions of Skyline v. DIR (1985) 165 Cal.App.3d 239, since the hourly rates have already been established and what needs to be established now is the weighted average of those rates for purposes of over time pa ymen t.
 
 49.2.6
 
@@ -5448,7 +5745,15 @@ It is because of this history of collective bargaining that the Division has tak
 
 50.7.1.3 The above statement remains the enforcement position of DLSE regarding the provisions o f the CBA opt-out language in the IWC Orders. (O.L. 1991.04.02)
 
-50.8 Certain Truck Drivers. The provisions of the some IWC Orders (not Order 16, see below) exempt certain drivers from the overtime requirements of the Orders. The exemption applies if the hours of service of the drivers are regulated either by the U.S. Department of Transportation or the regulations of the California Highway Patrol.
+50.8
+
+Certain Truck Drivers. The provisions of the some IWC Orders (not Order 16, see below)
+
+exempt certain drivers from the overtime requirements of the Orders. The exemption applies
+
+if the hours of service of the drivers are regulated either by the U.S. Department of
+
+Transportation or the regulations of the California Highway Patrol.
 
 JUNE, 2002
 
@@ -5784,7 +6089,7 @@ It is the position of the DL E that in determining the amount of the daily salar
 1. The pre-determined mo nthly salary is multiplied by 12 to find the yearly salary.
 2. The product of that multiplication is divided by 52 (the number of weeks in a year) to find the weekly salary.
 3. The usual number of days (regardless of the number of hours usu ally worked in any workda y) the emplo yee is schedule d to work in a workw eek is divided into the weekly salary.
-Work Performed Outside Work Site. As with the federal enforcement policy, DLSE takes the position that the work nee d not be pe rformed a t the usual job site of the employer in order to qualify as work performed. It is the position of the DLSE that a deduction cannot be made from the salary of an exempt employee in a situation where the employe e spends tim e, for instance, rev iewing files at home since the deduction is only allowed for an "absence of a day of more." (See also, Wage and Hour Opinion Letter, July 21, 1997, wh ich agrees with this view.) (O.L. 2002.04.08)
+Work Performed Outside Work Site. As with the federal enforcement policy, DLSE takes the position that the work nee d not be performed at the usual job site of the employer in order to qualify as work performed. It is the position of the DLSE that a deduction cannot be made from the salary of an exempt employee in a situation where the employe e spends tim e, for instance, rev iewing files at home since the deduction is only allowed for an "absence of a day of more." (See also, Wage and Hour Opinion Letter, July 21, 1997, wh ich agrees with this view.) (O.L. 2002.04.08)
 Any Work By The Exempt Employee In The Day Precludes Reduction Of Salary. As pointed out in the section directly above, work off the site of the employer would still be compensable. If, for example, an employer required an exempt employee on vacation to be available on short notice to return to work, or expected the exempt employee to call the office or check e-mails while on vacation, or the employer calls the employee (or authorizes others to call the employee) that is work performed and a reduction in the salary of the employee would not be appropriate. The exempt employe e's salary is not subject to the deduction if the employee did not have a reasonable expectation that he was free o f all duties. However, the employee may not unilaterally absent himself and simply announce that he will be availab le. There m ust be some indication by the employer that the time is not e xpected to be completely duty-free.
 
 *See also, Wage and Hour Division, U.S. Department of Labor, Opinion Letter dated July 21, 1997. Note, however, that if the workweek actually worked exceeds the agreed workweek more than fifty percent of the time, the longer workweek will be used as the divisor in the formula.
