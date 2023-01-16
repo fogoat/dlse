@@ -1843,7 +1843,7 @@ MARCH, 2006
 
 19.3.5 19.4
 
-Service Charge May Be a Gratuity. The Labor Commissioner issued two opinion letters which stated that a charge which must be paid added to a customer's bill for the service is not a gratuity and may be received and disbursed by the employer without limit by Labor Code § 351 et seq. (O.L. 1994.01.07 and 2000.11.02). On the other hand, if the "service charge" or "added gratuity" is waivable or negotiable, or couched in terms of being less than a fixed amount which must be paid, the charge is not an added "charge" to the bill and payment is gratuitious. Some local ordinances contain provisions that require the entire service charge be paid to the employee who provided the service when the customer is required to pay a service charge. The reasoning is that customers, believing the charge will go to the employee providing the service does not also leave a gratuity. (See Garcia v. Four Points Sheraton LAX (2010) 188 Cal.app.4th 364.)(Upholding hotel ordinance and holding no preemption or constitutional bar to enforcement.) Service charge claims based on local ordinances may be enforced through the Labor Commissioner's claims process or through the Bureau of Field Endorcement. In O'Grady v. Merchant Exchange Productions, Inc. (2019) 41 Cal.App.5th 771, the court held mandatory service charges added to food and beverages could constitute a gratuity. An opinion letter dated November 2, 2000, makes reference to a particular set of facts where customer intent may deem a service charge a gratuity. In the letter, the specific facts make reference to a club that includes a service charge but forbids servers from receiving tips and explicitly tells customers the service charge is a gratuity and instructs servers to represent that to customers. Under this scenario the Labor Commissioner concluded the practice may violate Labor Code section 356 and at the very least "misleads the patron who is led to believe that the charge he or she is paying is, at least in part, being used to pay a tip to the employee."
+Service Charge May Be a Gratuity. The Labor Commissioner issued two opinion letters which stated that a charge which must be paid added to a customer's bill for the service is not a gratuity and may be received and disbursed by the employer without limit by Labor Code § 351 et seq. (O.L. 1994.01.07 and 2000.11.02). On the other hand, if the "service charge" or "added gratuity" is waivable or negotiable, or couched in terms of being less than a fixed amount which must be paid, the charge is not an added "charge" to the bill and payment is gratuitious. Some local ordinances contain provisions that require the entire service charge be paid to the employee who provided the service when the customer is required to pay a service charge. The reasoning is that customers, believing the charge will go to the employee providing the service does not also leave a gratuity. (See Garcia v. Four Points Sheraton LAX (2010) 188 Cal.App.4th 364.)(Upholding hotel ordinance and holding no preemption or constitutional bar to enforcement.) Service charge claims based on local ordinances may be enforced through the Labor Commissioner's claims process or through the Bureau of Field Enforcement. In O'Grady v. Merchant Exchange Productions, Inc. (2019) 41 Cal.App.5th 771, the court held mandatory service charges added to food and beverages could constitute a gratuity. An opinion letter dated November 2, 2000, makes reference to a particular set of facts where customer intent may deem a service charge a gratuity. In the letter, the specific facts make reference to a club that includes a service charge but forbids servers from receiving tips and explicitly tells customers the service charge is a gratuity and instructs servers to represent that to customers. Under this scenario the Labor Commissioner concluded the practice may violate Labor Code section 356 and at the very least "misleads the patron who is led to believe that the charge he or she is paying is, at least in part, being used to pay a tip to the employee."
 Labor Code § 353. Every employer shall keep accurate records of all gratuities received by him, whether received directly from the employee or indirectly by means of deductions from the wages of the employee or otherwise. Such records shall be open to inspection at all reasonable hours by the department.
 
 19.4.1 19.5 19.5.1 19.5.2
@@ -2211,30 +2211,29 @@ DECEMBER, 2017
 
 27 - 1
 
-DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
-
-27.2.3 27.2.4
+27.2.3 27.2.4
 27.2.5
 
-These sections include liability for unpaid wages and penalties.
-Additional Protections For Garment Workers. As of January 1, 2000, garment workers were afforded additional protections pursuant to AB 633. Labor Code § 2673.1 was added and provides that the minimum wage and overtime wages earned by persons engaged in garment manufacturing are to be guaranteed by garment manufacturers who contract with the workers' employer. The legislation also provides for liquidated damages, attorney fees and successor liability. In addition, DLSE is required to investigate and make a Finding and Assessment on each claim filed under the legislation. (See Labor Code §§ 2673.1, et seq. and 8 CCR §§ 13630, et seq.) Displaced Janitor Opportunity Act. Labor Code §§ 1060 et seq. require any person who awards or otherwise enters into contracts for janitorial or building maintenance services, including any subcontracts, to notify a contractor that the service contract has been terminated or will be terminated. The terminated contractor shall, within three working days after receiving notification, provide to the successor contractor, or awarding authority (if identity of successor unknown) the name, date of hire, and job classification of each employee employed at the time of contract termination. Any successor contractor or subcontractor shall retain for 60 days employees who were employed by the terminated contractor or its subcontractors for the preceding four months or longer at the site or sites covered by the successor services contract unless reasonable and substantiated cause not to hire a particular employee based on performance or conduct is established. A written offer shall be made to each employee in their primary language or language in which the employee is literate and shall state the time within which the employee must accept that offer, but in no case may that time be less than 10 days. The wages and benefits are not required to be the same as those previously paid. If fewer employees are needed, employees shall be retained by seniority within job classification. The successor must provide a list of its employees to the awarding authority and indicate which employees were employed by the terminated contractor or subcontractor and a list of any employees not retained and the reason for not retaining them. Preferential hiring must be done through a list maintained by the successor during the 60 day transition period. At the end of the transition period successor shall provide a written performance evaluation to each employee retained and if satisfactory, shall offer continued employment on an at-will employment basis. An employee not retained or discharged in violation of this chapter may file a superior court action and may be awarded backpay, including the value of benefits for each day during which the violation continues to occur, calculated at the average regular rate of pay in the same occupation classification during the last three years multiplied by the average hours worked or the final regular rate of pay at the time of termination of the predecessor multiplied by the number of hours, whichever is higher, a preliminary or permanent injunction, and reasonable attorney's fees and costs, if the employee is the prevailing party.
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+These sections include liability for unpaid wages, damages and penalties.
+Additional Protections For Garment Workers. Garment workers are afforded additional protections under the Labor Code. Starting January 1, 2022, it is unlawful to pay the piece rate to employees performing garment operations and instead they must be paid at an hourly rate not less than the applicable minimum wage. (Labor Code § 2673.1(b)). Entities contracting for the performance of garment manufacturing operations, regardless of layers of contracting, are jointly and severally liable with the employer of garment employees for unpaid wages, reimbursements, and other compensation including interest, an employee's reasonable attorney's fees, and civil penalties for failure to secure workers' compensation insurance. (Labor Code § 2673.1(a)). Additionally, garment manufacturers that contract with the employers of garment employees are proportionally liable for all damages and penalties found owed to employees. (Labor Code § 2673.1(b)). The additional protections include liquidated damages on unpaid overtime wages in addition to unpaid minimum wages as well as specific successorship liability. (Labor Code §§ 2673.1(b); 2684). Prior to January 1, 2022, Labor Code §2673.1 provided that minimum wage and overtime wages earned by persons engaged in garment manufacturing were to be guaranteed by garment manufacturers who contracted with the garment worker's employer. The prior law also provided for liquidated damages, attorney's fees and successor liability. Both the prior law and the new law require the Labor Commissioner to investigate and make a Finding and Assessment on each claim filed under the legislation. (See Labor Code §§ 2673.1, et seq. and 8 CCR §§ 13630, et seq.). Displaced Janitor Opportunity Act. Labor Code §§ 1060 et seq. require any person who awards or otherwise enters into contracts for janitorial or building maintenance services, including any subcontracts, to notify a contractor that the service contract has been terminated or will be terminated. The terminated contractor shall, within three working days after receiving notification, provide to the successor contractor, or awarding authority (if identity of successor unknown) the name, date of hire, and job classification of each employee employed at the time of contract termination. Any successor contractor or subcontractor shall retain for 60 days employees who were employed by the terminated contractor or its subcontractors for the preceding four months or longer at the site or sites covered by the successor services contract unless reasonable and substantiated cause not to hire a particular employee based on performance or conduct is established. A written offer shall be made to each employee in their primary language or language in which the employee is literate and shall state the time within which the employee must accept that offer, but in no case may that time be less than 10 days. The wages and benefits are not required to be the same as those previously paid. If fewer employees are needed, employees shall be retained by seniority within job classification. The successor must provide a list of its employees to the awarding authority and indicate which employees were employed by the terminated contractor or subcontractor and a list of any employees not retained and the reason for not retaining them. Preferential hiring must be done through a list maintained by the successor during the 60 day transition period. At the end of the transition period successor shall provide a written performance evaluation to each employee retained and if satisfactory, shall offer continued employment on an at-will employment basis. An employee not retained or discharged in violation of this chapter may file a superior court action and may be awarded backpay, including the value of benefits for each day during which the violation continues to occur, calculated at the average regular rate of pay in the same occupation classification during the last three years multiplied by the average hours worked or the final regular rate of pay at the time of termination of the predecessor multiplied by the number of hours, whichever is higher, a preliminary or permanent injunction, and reasonable attorney's fees and costs, if the employee is the prevailing party.
 
 27.2.6
 
-Public Transit and Collection and Transportation of Solid Waste. Labor Code §§ 1070 et seq. require any bidder for a public transit or collection and transportation of solid waste contract to declare as part of the bid for a service contract whether or not the bidder will retain the employees of the prior contractor for not less than 90 days, if awarded the service contract. This chapter as it applies to the collection and transportation of solid waste is limited to when an exclusive contract is bid not to an invitation to bid, extending an existing contract, renegotiating with a prior contractor or exceeding rights afforded by Public Resources Code § 40059. An awarding authority shall give a 10 percent preference to any bidder who agrees to retain the employees of
+Public Transit and Collection and Transportation of Solid Waste. Labor Code §§ 1070 et seq. require any bidder for a public transit or collection and transportation of solid waste contract to declare as
 
-DECEMBER, 2017
+DECEMBER 2022
 
 27 - 2
 
 DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+part of the bid for a service contract whether or not the bidder will retain the employees of the prior contractor for not less than 90 days, if awarded the service contract. This chapter as it applies to the collection and transportation of solid waste is limited to when an exclusive contract is bid not to an invitation to bid, extending an existing contract, renegotiating with a prior contractor or exceeding rights afforded by Public Resources Code § 40059. An awarding authority shall give a 10 percent preference to any bidder who agrees to retain the employees of the prior contactor or subcontractor. A successor contractor who agrees to retain employees shall do so except for reasonable and substantiated cause limited to performance or conduct while working under the prior contract or the employee's failure of any controlled substances and alcohol test, physical examination, criminal background check required by law as a condition of employment or other standard hiring qualification lawfully required by the successor contractor or subcontractor. In determining qualification, successor may require an employee to posess any license that is required by law to operate equipment. A written offer shall be made to each employee and shall state the time within which the employee must accept that offer, but in no case may that time be less than 10 days. The wages and benefits are not required to be the same as those previously paid. An employee not retained or discharged in violation of this chapter may file a superior court action and may be awarded backpay, including the value of benefits for each day during which the violation continues to occur, a preliminary or permanent injunction, and reasonable attorney's fees and costs, if the employee is the prevailing party. An awarding authority on its own or at the request of a member of the public may terminate a service contract if the contractor or subcontractor breached the contract and holds a public hearing within 30 days of the public requiest or its own intention to terminate. Terminated contractors or subcontractors are ineligible to bid or be awarded a contract for not less than one year nor more than three years. For solid waste contracts, successors are required to retain only employees who would have been terminated due to the award to the successor and of those employees an exception applies to employees not meeting any standard hiring qualification lawfully required, or if it would require the termination or reassignment of an existing employee covered by a collective bargaining agreement or if the number of employees exceeds the number of those employees communicated to bona fide bidders. An employee or awarding body bringing an action must provide a 30 day notice to cure.
 
 27.2.7
 
-the prior contactor or subcontractor. A successor contractor who agrees to retain employees shall do so except for reasonable and substantiated cause limited to performance or conduct while working under the prior contract or the employee's failure of any controlled substances and alcohol test, physical examination, criminal background check required by law as a condition of employment or other standard hiring qualification lawfully required by the successor contractor or subcontractor. In determining qualification, successor may require an employee to posess any license that is required by law to operate equipment. A written offer shall be made to each employee and shall state the time within which the employee must accept that offer, but in no case may that time be less than 10 days. The wages and benefits are not required to be the same as those previously paid. An employee not retained or discharged in violation of this chapter may file a superior court action and may be awarded backpay, including the value of benefits for each day during which the violation continues to occur, a preliminary or permanent injunction, and reasonable attorney's fees and costs, if the employee is the prevailing party. An awarding authority on its own or at the request of a member of the public may terminate a service contract if the contractor or subcontractor breached the contract and holds a public hearing within 30 days of the public requiest or its own intention to terminate. Terminated contractors or subcontractors are ineligible to bid or be awarded a contract for not less than one year nor more than three years. For solid waste contracts, successors are required to retain only employees who would have been terminated due to the award to the successor and of those employees an exception applies to employees not meeting any standard hiring qualification lawfully required, or if it would require the termination or reassignment of an existing employee covered by a collective bargaining agreement or if the number of employees exceeds the number of those employees communicated to bona fide bidders. An employee or awarding body bringing an action must provide a 30 day notice to cure.
 The provisions of the California Worker Adjustment and Retraining Notification Act (Cal WARN) were enacted in 2002 and became effective in 2003. The Cal WARN Act is found beginning at Labor Code section 1400. The Labor Commissioner or private parties may enforce the Cal WARN Act by filing a civil action to enforce these provisions. An employer is defined as "any person... who, directly or indirectly, owns and operates a "covered establishment." "A parent corporation is an employer as to any covered establishment directly owned and operated by its corporate subsidiary." A "covered establishment is "any industrial or commercial facility or part thereof, that employs, or has employed within the preceding 12 months, at least 75 persons. There are three separate type of events at a "covered establishment" that can trigger application of the CAL WARN ACT: (1) a "mass layoff"; (2) a business "relocation"; or (3) a business "termination." A mass layoff is defined as a layoff during any 30-day period of 50 or more employees at a covered establishment. A mass layoff is further defined as a separation from a position for lack of funds or lack of work. When employees are transferred from one employer to another but continue to perform the same work, for the same pay and benefits, the notice requirements of the California Warn Act are not triggered as such actions are not considered a mass law off. MacIsaac v. Waste Management Collection and Recycling (2005) 134 Cal.App.4th 1076. A relocation is defined as a removal of all or substantially all of the industrial or commercial operations in a covered establishment to a different location 100 miles or more away. A termination is defined as the cessation or substantial cessation of industrial or commercial operations in a covered establishment. Unlike a mass layoff, which requires a layoff of 50 or more employees at a covered establishment, once it is determined that the employer
 
-DECEMBER, 2017
+DECEMBER 2017
 
 27 - 3
 
@@ -2504,11 +2503,11 @@ entity's underlying liability. What AB 5 does is codify that the ABC test applie
 
 A list of the exemptions is provided below.
 
-Occupations where Borello applies instead of ABC under Labor Code section 2775 et seq.:  Certain occupations in connection with creating, marketing, promoting, or
-distributing sound recordings or musical compositions  Certain licensed insurance agents, brokers, and persons who provide underwriting
-inspections, premium audits, risk management, claims adjusting, third-party administration consistent with use of the term "third-party administrator," as defined in subdivision (cc) of Section 10112.1 of Title 8 of the California Code of Regulations, or loss control work for the insurance and financial service industries  Certain licensed physicians, surgeons, dentists, podiatrists, psychologists, or veterinarians  Certain licensed attorneys, architects, landscape architects, engineers, private investigators and accountants  Certain registered securities broker-dealers or investment advisers or their agents and representatives  Certain direct salespersons  Certain manufactured housing salespersons  Certain licensed commercial fishers (only through December 31, 2022 unless extended by the Legislature)  Certain newspaper distributors or carriers (only through December 31, 2024 unless extended by the Legislature)  Certain persons engaged by an international exchange visitor program
+Occupations where Borello applies instead of ABC under Labor Code section 2775 et seq.: · Certain occupations in connection with creating, marketing, promoting, or
+distributing sound recordings or musical compositions · Certain licensed insurance agents, brokers, and persons who provide underwriting
+inspections, premium audits, risk management, claims adjusting, third-party administration consistent with use of the term "third-party administrator," as defined in subdivision (cc) of Section 10112.1 of Title 8 of the California Code of Regulations, or loss control work for the insurance and financial service industries · Certain licensed physicians, surgeons, dentists, podiatrists, psychologists, or veterinarians · Certain licensed attorneys, architects, landscape architects, engineers, private investigators and accountants · Certain registered securities broker-dealers or investment advisers or their agents and representatives · Certain direct salespersons · Certain manufactured housing salespersons · Certain licensed commercial fishers (only through December 31, 2025 unless extended by the Legislature) · Certain newspaper distributors or carriers (only through December 31, 2024 unless extended by the Legislature) · Certain persons engaged by an international exchange visitor program
 
-JANUARY 2022
+DECEMBER 2022
 
 28 - 9
 
@@ -2875,18 +2874,14 @@ DECEMBER, 2017
 
 29 - 5
 
-DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
-
+DIVISIONOF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 30 HEALTHY WORKPLACES, HEALTHY FAMILIES ACT OF 2014
-
 30.1 The Healthy Workplaces, Healthy Families Act of 2014, a new article beginning at Labor Code §§ 245 et seq. recognized that every worker in the State of California will at some time during the year need some time off from work to take care of his or her own health or the health of family members and by providing paid time off will ensure a healthier and more productive workforce in California. Sick workers will be able to take time off to care for themselves or ill family members lessening recovery time and reducing the spread of illness in the workforce. Costs of decreased productivity caused by sick workers exceed costs of employee absenteeism. Affording survivors of domestic violence and sexual assault paid sick leave is vital to their independence and recovery.
-
 30.2 Entitlement: An employee who, on or after July 1, 2015, works in California for 30 or more days within a year for the same employer is entitled to paid sick days, compensated at the same wage rate the employee normally earns. An employee shall be entitled to use paid sick days beginning on the 90th day of employment and as accrued thereafter. The employer shall provide payment for sick leave taken no later than the payday for the next regular payroll period after the sick leave was taken. An employer may calculate the payment to non-exempt employees in one of two alternative manners: 1) The regular rate of pay for the workweek in which the paid sick leave was taken or 2) All non overtime earnings for the prior 90 days divided by the total hours if the employee is paid by piece rate or commission basis or if paid by salary, divided by the non-overtime hours. See O.L. 2016.10.11. Paid sick leave for an exempt employee is calculated in the same manner the employer calculates wages for other forms of paid leave time. An employee may determine how much paid sick leave he or she uses at any given time. Employers may set reasonable minimum increments not to exceed two hours. The employee shall provide reasonable advance notification if the need for the sick leave is foreseeable and if unforeseeable, the employee shall provide notice of the need as soon as practicable. An employer is prohibited from requiring an employee to search for or find a replacement worker.
-30.3 Purposes: The purposes for which paid sick leave may be used include: Diagnosis, care or treatment of an existing health condition of, or preventative care for, an employee or the employee's family member. For an employee who is a victim of domestic violence or sexual assault or stalking, paid sick leave may be use for the purposes specified in Labor Code §§ 230 and 230.1. Family member includes a child (as specified including foster child), a parent (as specified including foster parent), a spouse, a registered domestic partner, a grandparent, a grandchild, or a sibling. An employer is not obliged to inquire into or record the purposes for which an employee uses paid leave or paid time off.
-
+30.3 Purposes: The purposes for which paid sick leave may be used include: Diagnosis, care or treatment of an existing health condition of, or preventative care for, an employee or the employee's family member. For an employee who is a victim of domestic violence or sexual assault or stalking, paid sick leave may be use for the purposes specified in Labor Code §§ 230 and 230.1. Family member includes a child (as specified including foster child), a parent (as specified including foster parent), a spouse, a registered domestic partner, a grandparent, a grandchild, a sibling, or a designated person. An employer is not obliged to inquire into or record the purposes for which an employee uses paid leave or paid time off.
 30.4 Accrual: Paid sick leave accrues at the rate of no less than one hour for every 30 hours worked. An employer may (but is not required to) lend paid sick days to an employee in advance of accrual. Exempt administrative, executive and professional employees are deemed to work 40 hours per week, unless the normal workweek is less, in which case the hours are computed based on the normal workweek. An employer can limit use to 24 hours or 3 days in each
 
-DECEMBER, 2017
+DECEMBER 2022
 
 30 - 1
 
@@ -4328,7 +4323,7 @@ MARCH, 2006
 
 Public Employees' Partial Exemption From IWC Orders . Prior to January 1, 2001, public employees were expressly excluded from the Minimum Wage Order, and from Orders 1-13. Thus, those workers were not covered by minimum wage or overtime requirements. In the case of Andrews v. Central California Irrigation District (E.D. Cal. 1999), the federal district court, in an unpublished decision, ruled that because there is no provision excluding public employees from Order 14 coverage, an irrigation district's employees are covered by that wage order and its overtime requirements. The IWC, though made aware of this decision, declined to amend Order 14; consequently, public employees are treated the same as private employees under that Order.
 
-43.6.4.1 Public Employees Are Now Covered By State Minimum Wage Requirements. With the enactment of MW-2001, on January 1, 2001, public employees ("employees directly employed by the State or any political subdivision thereof, including any city, county, or special district") are now expressly covered by minimum wage requirements. Also, Orders 113 were amended effective January 1, 2001 to specify that Sections 1 (Applicability), 2 (Definitions), 4 (Minimum Wage), 10 (Meal and Lodging credits) and 20 (Penalties for Underpayment) of these orders are applicable to public employees, while all other sections of these orders (e.g., overtime, meal and rest period requirements) are not. (But see Order 9 concerning meal and rest periods for commercial drivers employed by governmental entities unless a collective bargaining opt-out is met) Order 16 contains similar provisions. Public employees are, therefore, entitled to payment of not less than the minimum wage for all "hours worked" within the meaning of the applicable wage order. (O.L. 2002.01.29) In addition, Labor Code section 1182.12, setting forth the minimum wage scale for 2017 through 2023, in scaled increments to reach $15.00 and for increses thereafter, expressly provides that employer means "any person who directly or indirectly, or through an agent or any other person, employs or excercises control over the wages, hours, or working conditions of any person. For purposes of this subdivision, `employer' includes the state, political subdivisions of the state, and municipalities."
+43.6.4.1 Public Employees Are Now Covered By State Minimum Wage Requirements. With the enactment of MW-2001, on January 1, 2001, public employees ("employees directly employed by the State or any political subdivision thereof, including any city, county, or special district") are now expressly covered by minimum wage requirements. Also, Orders 113 were amended effective January 1, 2001 to specify that Sections 1 (Applicability), 2 (Definitions), 4 (Minimum Wage), 10 (Meal and Lodging credits) and 20 (Penalties for Underpayment) of these orders are applicable to public employees, while all other sections of these orders (e.g., overtime, meal and rest period requirements) are not. (But see Order 9 concerning meal and rest periods for commercial drivers employed by governmental entities unless a collective bargaining opt-out is met) Order 16 contains similar provisions. Public employees are, therefore, entitled to payment of not less than the minimum wage for all "hours worked" within the meaning of the applicable wage order. (O.L. 2002.01.29) In addition, Labor Code section 1182.12, setting forth the minimum wage scale for 2017 through 2023, in scaled increments to reach $15.50 and for increases thereafter, expressly provides that employer means "any person who directly or indirectly, or through an agent or any other person, employs or exercises control over the wages, hours, or working conditions of any person. For purposes of this subdivision, `employer' includes the state, political subdivisions of the state, and municipalities."
 
 43.6.5 Only Employees Are Covered. The coverage of the IWC Orders extends only to employees. If the individual is not an "employee," there is no employment relationship with an employer and the wage orders do not apply. (O.L. 1988.10.27)
 43.6.6 Independent Contractors are not employees. (See Section 28 of this Manual for a full discussion).
@@ -4338,7 +4333,7 @@ Public Employees' Partial Exemption From IWC Orders . Prior to January 1, 2001, 
 
 43.6.9 Members of Religious Orders. In the past, DLSE has followed the rule that members of religious orders and clergy in general are not employees unless they work in
 
-DECEMBER, 2018
+DECEMBER 2022
 
 43 - 6
 
@@ -4422,28 +4417,32 @@ NOVEMBER, 2013
 
 DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 
-44 MINIMUM WAGE OBLIGATION.
-44.1 The chart below sets forth the minimum wage and annual increases until January 1, 2023 when the minimum wage will be $15.00 for all employees. From 2017 until 2023 employers who have 25 or fewer employees are subject to payment of a lower rate. New provisions in Labor Code 1182.12 provide for subsequent increases after 2023 based on specified economic factors.
+44. MINIMUM WAGE OBLIGATION.
+44.1 The chart below sets forth the minimum wage and annual increases until January 1, 2023 when the minimum wage increased to $15.50 for all employees. From 2017 through 2022 employers who had 25 or fewer employees were subject to payment of a lower rate. New provisions in Labor Code 1182.12 provide for increases based on specified economic factors.
 
 Effective Date January 1, 2017 January 1, 2018 January 1, 2019 January 1, 2020 January 1, 2021 January 1, 2022 January 1, 2023
 
 California's Scheduled Wage Increase
 
-26 Employees or More $10.50 per hour $11.00 per hour $12.00 per hour $13.00 per hour $14.00 per hour $15.00 per hour $15.00 per hour2
+26 Employees or More
 
-25 Employees or Fewer $10.00 per hour $10.50 per hour $11.00 per hour $12.00 per hour $13.00 per hour $14.00 per hour $15.00 per hour
+25 Employees or Fewer
+
+$10.50 per hour $11.00 per hour $12.00 per hour $13.00 per hour $14.00 per hour $15.00 per hour $15.50 per hour2
+
+$10.00 per hour $10.50 per hour $11.00 per hour $12.00 per hour $13.00 per hour $14.00 per hour $15.50 per hour
 
 44.1.2 44.1.3
 
-Labor Code Section 1182.12 provided for an increase in the minimum wage beginning July 1, 2014 to $9.00, January 1, 2016, $10.00 and beginning January 1, 2017, Senate Bill 3 provided for the scaled increases referenced above. The definition of employer in 1182.12(b)(3) "means any person who directly or indirectly, or through an agent or any other person, employs or exercises control over the wages, hours, or working conditions of any person. For purposes of this subdivision, `employer' includes the state, policital subdivisions of the state, and municipalities."
-Minimum Wage Covers Other Formerly Exempt Employees. In MW-2001, the IWC specifically included thefollowingemployees who previously had been subject to "nonstatutory full and partial exemptions from the minimum wage":
+Labor Code Section 1182.12 provided for an increase in the minimum wage beginning July 1, 2014 to $9.00, January 1, 2016, $10.00 and beginning January 1, 2017, Senate Bill 3 provided for the scaled increases referenced above. The definition of employer in 1182.12(b)(3) "means any person who directly or indirectly, or through an agent or any other person, employs or exercises control over the wages, hours, or working conditions of any person. For purposes of this subdivision, `employer' includes the state, political subdivisions of the state, and municipalities."
+Minimum Wage Covers Other Formerly Exempt Employees. In MW-2001, the IWC specifically included the following employees who previously had been subject to "nonstatutory full and partial exemptions from the minimum wage":
 1. state and local government employees;
 2. full-time carnival ride operators;
 3. professional actors;
 4. personal attendants in private homes other than babysitters under the age of eighteen (18) employed as babysitters for a minor child of the employer in the employer's home;
 
 2 The rate may be adjusted upward for inflation.
-APRIL, 2017
+DECEMBER 2022
 
 44 - 1
 
@@ -4709,38 +4708,27 @@ DECEMBER, 2019
 DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 
 45.2.10
-45.2.9 45.2.9.1 45.2.10 45.3
+45.2.11 45.2.12 45.2.13.1 45.2.13.2 45.3
 45.3.1
 
-Proposition 11 passed in 2018 allows private empergency ambulance employees to be "on-call" during all meal and rest periods. Such employees must be paid their regular rate of pay during all on-call meal and rest periods, but are not entitled to a meal or rest period premium for being required to stay on-call during such on-call periods. The Proposition enacts new Labor Code sections 880-890 and applies to all actions pending on or commenced after October 25, 2017. This new chapter applies to privately employed emergency medical technicians, dispatchers, paramedics or other licensed or certified ambulance transport personnel who contribute to the delivery of ambulance services employed by an emergency ambulance provider, that provides ambulance services but not including the state or political subdivision of the state. Premium Is Imposed For Failure To Provide Meal Period In Accordance With Applicable IWC Order. No employer shall require any employee to work during any meal period mandated by an applicable order of the Industrial Welfare Commission. If an employer fails to provide an employee a meal period in accordance with an applicable order of the Industrial Welfare Commission, the employer shall pay the employee one additional hour of pay at the employee's regular rate of compensation for each work day that the meal period is not provided. (Labor Code § 226.7)
-Relationship Between Record-Keeping Requirement And Meal Period. The employer has an obligation under the record-keeping requirements set forth in the Wage Order to track meal periods unless "all work ceases."
-Wage Order 16-2001 Meal Period Requirements. In addition to the requirements contained in the other Orders, Order 16-2001, Section 10(C), requires that the employer furnish "an adequate supply of potable water, soap, or other suitable agent and single use towels for hand washing."
-Rest Periods. Section 12 of each of the Orders (except Order 16) provides:
-(A) Every employer shall authorize and permit all employees to take rest periods, which insofar as practicable shall be in the middle of each work period. The authorized rest period time shall be based on the total hours worked daily at the rate of ten (10) minutes net rest time per four (4) hours or major fraction thereof. However, a rest period need not be authorized for employees whose total daily work time is less than three and one-half (3 ½) hours. Authorized rest period time shall be counted as hours worked for which there shall be no deduction from wages. (B) If an employer fails to provide an employee a rest period in accordance with the applicable provisions of this order, the employer shall pay the employee one (1) hour of pay at the employee's regular rate of compensation for each workday that the rest period is not provided.
+Proposition 11 passed in 2018 allows private emergency ambulance employees to be "on-call" during all meal and rest periods. Such employees must be paid their regular rate of pay during all on-call meal and rest periods, but are not entitled to a meal or rest period premium for being required to stay on-call during such on-call periods. The Proposition enacts new Labor Code sections 880-890 and applies to all actions pending on or commenced after October 25, 2017. This new chapter applies to privately employed emergency medical technicians, dispatchers, paramedics or other licensed or certified ambulance transport personnel who contribute to the delivery of ambulance services employed by an emergency ambulance provider, that provides ambulance services but not including the state or political subdivision of the state. SB 1334 enacted in 2022 extends the right to meal and rest periods to public sector employees who provide direct patient care or support direct patient care, in a hospital, clinic, or public health setting through the enactment of new Labor Code Section 512.1. Premium Is Imposed For Failure To Provide Meal Period In Accordance With Applicable IWC Order. No employer shall require any employee to work during any meal period mandated by an applicable order of the Industrial Welfare Commission. If an employer fails to provide an employee a meal period in accordance with an applicable order of the Industrial Welfare Commission, the employer shall pay the employee one additional hour of pay at the employee's regular rate of compensation for each work day that the meal period is not provided. (Labor Code § 226.7) Relationship Between Record-Keeping Requirement And Meal Period. The employer has an obligation under the record-keeping requirements set forth in the Wage Order to track meal periods unless "all work ceases." Wage Order 16-2001 Meal Period Requirements. In addition to the requirements contained in the other Orders, Order 16-2001, Section 10(C), requires that the employer furnish "an adequate supply of potable water, soap, or other suitable agent and single use towels for hand washing." Rest Periods. Section 12 of each of the Orders (except Order 16) provides: Every employer shall authorize and permit all employees to take rest periods, which insofar as practicable shall be in the middle of each work period. The authorized rest period time shall be based on the total hours worked daily at the rate of ten (10) minutes net rest time per four (4) hours or major fraction thereof. However, a rest period need not be authorized for employees whose total daily work time is less than three and one-half (3 ½) hours. Authorized rest period time shall be counted as hours worked for which there shall be no deduction from wages. (A) If an employer fails to provide an employee a rest period in accordance with the applicable provisions of this order, the employer shall pay the employee one (1) hour of pay at the employee's regular rate of compensation for each workday that the rest period is not provided.
 "Major Fraction". In Brinker Restaurant Corporation v. Superior Court of San Diego (2012) 53 Cal.4th 1004, the California Supreme Court upheld DLSE longstanding policy regarding rest periods, (time in excess of two (2) hours to be a major fraction mentioned in the regulation. (O.L. 1999.02.16), concluding that rest periods must be provided for shifts of over two hours, unless an employee's total daily work time is less than three and one-half (3 1/2 hours). The amount of time required is 10 minutes for shifts lasting more than two hours up to six hours, 20 minutes for shifts lasting more than six hours up to 10 hours, 30 minutes for shifts of more than 10 hours up to 14 hours, and so on. (Brinker,
 
-DECEMBER, 2018
+December 2022
 
 45 - 11
 
-DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+45.3.2
+45.3.2.1 45.3.2.2
+
+DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 53 Cal.4th at 1029.)
-
 Employers are subject to a duty to make a good faith effort to authorize and permit rest breaks in the middle of each work period, but may deviate from that preferred course where practical considerations render it infeasible. The court rejected the employee's assertion that employers have a legal duty to permit their employees a rest period before any meal period, but did not disagree with DLSE Opinion Letter No 2001.09.17 which states that absent truly unusual circumstances where there is a meal period at the five hour mark of an eight hour shift, "placing both rest breaks before the meal break, and none after, would not comport with the wage order requirement that rest breaks `insofar as practicable, shall be in the middle of each work period.' "[I]n the context of an eighthour shift, `as a general matter,' one rest break should fall on either side of the meal break.... Shorter or longer shifts and other factors that render such scheduling impracticable may alter this general rule." (Id. at 1032.) The one example given by the court where a rest break might come before or after the meal period is for a six-hour shift where there is no waiver, and there is one rest break.
-
-45.3.2
-
 Rest Period Is Paid And Counted Toward Hours Worked. The regulation requires that the rest period time shall be counted as hours worked for which there shall be no deduction from wages. In Augustus v. ABM Security Services, Inc., (2016) 5 Cal.5th 257, 269, the Califonia Supreme Court held that the rest period requirement "obligates employers to permit--and authorizes employees to take--offduty rest periods. That is, during rest periods employers must relieve employees of all duties and relinquish control over how employees spend their time." The court further held that on-call rest periods are prohibited. "[O]ne cannot square the practice of compelling employees to remain at the ready, tethered by time and policy to particular locations or communications devices, with the requirement to relieve employees of all work duties and employer control during 10-minute rest periods." (Id.) The court reasoned that the rest period had its own inherent limits based on the fact that it was only 10 minutes long. Any more restrictions are impermissible. "Several options nonetheless remain available to employers who find it especially burdensome to relieve their employees of all duties during rest periods--including the duty to remain on call. Employers may (a) provide employees with another rest period to replace one that was interrupted, or (b) pay the premium pay set forth in Wage Order 4, subdivision 12(B) and section 226.7." (Id. at p. 272.)
-
-45.3.2.1
-
 See section 45.2.10 exception for private ambulance employees who may be required to have on-call rest periods in addition to on-call meal periods.
-
-45.3.2.2
-
 Wage Order 1 Petroleum Facility Employees in Safety Sensitive Positions. Labor Code section 226.75 creates an exception for certain employees who are subject Wage order 1 and subject to a collective bargaining agreement that expressly provides for a regular hourly rate of pay of not less than 30% more than the state minimum wage rate, premium wage rates for overtime hours, rest periods, and binding arbitration of disputes concerning rest periods who are required to carry and monitor a communication devise such as a radio or pager and respond to emergencies or are required to remain on the premises to monitor and respond to emergencies. Such employees may be required to remain on call. If a rest period is interrupted by an emergency, the employee is entitled to another rest period "reasonably promptly" after the emergency is resolved. If the rest
 
-DECEMBER, 2018
+December 2018
 
 45 - 12
 
@@ -4778,69 +4766,128 @@ DECEMBER, 2018
 rest period provisions.
 
 45.3.7
+45.4 45.4.1
 
 Premium For Failure To Provide Rest Periods is the same as that imposed for failure to provide meal periods. Note that only one hour for failure to provide a rest period may be imposed in each day regardless of the number of rest periods missed.
-
-45.4
-
 Meals and Lodging Costs.
+The credit associated with meals and lodging contained at Section 10 of each of the Orders have been increased:
 
-45.4.1 The credit associated with meals and lodging contained at Section 10 of each of the Orders have been increased:
+EFFECTIVE: JANUARY 1, 2020
 
-CREDITS LODGING
+JANUARY 1, 2021
 
-January 1, 2019
+JANUARY 1, 2022
 
-26 or More
+For an employer who employs: 26 or More 25 or Fewer Employees Employees
 
-25 or Fewer
+26 or More Employees
 
-Employees
+25 or Fewer Employees
 
-Employees
+26 or More Employees
 
-January 1, 2020
+25 or Fewer Employees
 
-26 or More
+LODGING Room occupied alone
 
-25 or Fewer
+$61.13 /week
 
-Employees
+$56.43 /week
 
-Employees
+$65.83 /week
 
-Room Occupied Room shared Apartment ­two thirds (2/3) of the ordinary rental value, and in no event more than
-Where a couple are both employed by the employer, two thirds (2/3) of the ordinary rental value, and in no event more than MEALS
+$61.13 /week
 
-$56.43/week $46.58/week
+$70.53 /week
 
-$51.73/week $61.13/week $42.70/week $50.46/week
+$65.83 /week
 
-$56.43/week $46.58/week
+JANUARY 1, 2023
+All Employers regardless of
+number of Employees
+$72.88 /week
 
-$677.75/month $621.28/month $734.21/month $677.75/month
+Room shared
 
-$1,002.56/month $919.02/month $1,086.07/month $1,002.56/month
+$50.46 /week
 
-Breakfast Lunch Dinner
-45.4.2
-45.4.3 45.4.4
+$46.58 /week
 
-$4.34 $5.97 $8.01
+$54.34 /week
 
-$3.98 $5.47 $7.34
+$50.46 /week
+
+$58.22 week
+
+$54.34 /week
+
+$60.16 /week
+
+Apartment -- two thirds (2/3) of the ordinary $734.21
+
+rental value, and in no event more than:
+
+/month
+
+$677.75 /month
+
+$790.67 /month
+
+$734.21 /month
+
+$847.12 /month
+
+$790.67 /month
+
+$875.33 /month
+
+Where a couple are both employed by the employer, two thirds (2/3) of the ordinary rental value, and in no event more than:
+MEALS
+Breakfast Lunch
+Dinner
+
+$1086.07 $1002.56
+
+/month
+
+/month
 
 $4.70 $6.47 $8.68
 
 $4.34 $5.97 $8.01
 
+$1169.59 /month
+
+$1086.07 /month
+
+$1253.10 /month
+
+$1169.59 /month
+
+$5.06 $6.97 $9.35
+
+$4.70 $6.47 $8.68
+
+$5.42 $7.47 $10.02
+
+$5.06 $6.97 $9.35
+
+$1294.83 /month
+$5.60 $7.72 $10.35
+
+45.4.2
+
 Only Actual Meal and Lodging Costs May Be Used As Credit Against The Employer's Minimum Wage Obligation. The actual costs of meals and lodging (in no event to exceed the amounts set out above) may be offset against the minimum wage obligation of the employer. If the actual cost of the meal or the lodging is less than the rate shown in the Orders, only the actual amount may be credited.
 
-Meals must be "an adequate, well-balanced serving of a variety of wholesome, nutritious foods...consistent with the e mployee's work shift."
+45.4.3
 
-Lodging means "living accommodations available to the employee for full-time occupancy which are adequate, decent, and sanitary according to usu al and customary standards. Employees shall no t be required to share a bed."
+Meals must be "an adequate, well-balanced serving of a variety of wholesome, nutritious foods...consistent with the employee's work shift."
 
-DECEMBER, 2018
+45.4.4
+
+Lodging means "living accommodations available to the employee for full-time occupancy which are adequate, decent, and sanitary according to usual and customary standards. Employees shall not be required to share a bed."
+
+DECEMBER 2022
 
 45 - 14
 
@@ -5561,9 +5608,9 @@ State of California except those specifically exempted.
 
 Employer Bears Burden Of Proof To Show Exemption. The employer bears the
 
-responsibility of proving this or any other exemption from the requirements of the
+responsibility of proving this or any other exemption from the requirements of the IWC
 
-IWC Orders. Walling v. General Industries Co., 330 U.S. 545, 67 S.Ct. 883 (1947)
+Orders. Walling v. General Industries Co., 330 U.S. 545, 67 S.Ct. 883 (1947)
 
 50.3
 
@@ -5573,7 +5620,7 @@ Employees Exempted From Orders Generally:
 
 a) In determining which activities constitute exempt work and for examples of exempt and non-exempt job duties, the IWC has chosen to utilize the provisions of certain specified federal regulations. These regulations are discussed below. It is very important to note that not all of the sections of the federal regulations are specified and, thus some are not applicable. Care must be taken to determine which federal regulations may be relied on.
 
-2. Sheepherders were entirely exempt from the Orders until Wage Order 14-2001 became effective on July 1, 2001. After that date, Sections 3, 4 (A)-(D), 5 6, 9, 11, 12 and 13 d o not apply to sheepherders. Note, however, that this exemption is only effective while the person is engaged for the entire workweek in sheepherding as that term is defined in the Order (Order 14-2001, Section 2(N)). Pursuant to AB 1066 (2016) beginning January 1, 2019, sheepherders are subject to the same overtime phase-in that applies to all other agricultural workers covered by Wage Order 14. See O.L. 2019.7.26 concerning computation of overtime for sheepherders subject to the special monthly minimum wage contained in Labor Code section 2695.2(a) and Wage Order 14.
+2. Sheepherders were entirely exempt from the Orders until Wage Order 14-2001 became effective on July 1, 2001. After that date, Sections 3, 4 (A)-(D), 5 6, 9, 11, 12 and 13 do not apply to sheepherders. Note, however, that this exemption is only effective while the person is engaged for the entire workweek in sheepherding as that term is defined in the Order (Order 14-2001, Section 2(N)). Pursuant to AB 1066 (2016) beginning January 1, 2019, sheepherders are subject to the same overtime phase-in that applies to all other agricultural workers covered by Wage Order 14. See O.L. 2019.7.26 concerning computation of overtime for sheepherders subject to the special monthly minimum wage contained in Labor Code section 2695.2(a) and Wage Order 14. Effective September 27, 2022, goat herders became subject to the same provisions as sheepherders by passage of AB 156.
 
 3. Outside salespersons (IWC Orders, Section 1(C)).
 
@@ -5581,25 +5628,26 @@ a) In determining which activities constitute exempt work and for examples of ex
 
 5. Parent, spouse, child, or legally adopted child of the employer are entirely exempt from the Orders. (IWC Orders, Section 1(D)) Note that all other relatives of the employer would be covered by the IWC Orders.
 
-AUGUST, 2019
+DECEMBER 2022
 
 50 - 1
 
-DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+DIVISION OF LABORSTANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 6. Employees in computer software fields will be exempt from the overtime requirements* of the Orders if they:
-a. for 2020, earn forty-six dollars and fifty-five cents ($46.55) per hour for each hour worked, a minimum monthly salary of $8,080.71 and a minimum annual salary of $96,968.33, to be adjusted annually by the Division of Labor Statistics and Research (DLSR) on October 1 of each year to become effective January 1 of the following year by an amount equal to the percentage increase in the California Consumer Price Index for Urban Wage Earners and Clerical Workers. This adjustment is posted on the DLSR website annually here: https://www.dir.ca.gov/OPRL/ComputerSoftware.pdf and
-b. are primarily engaged in work that is intellectual or creative and requires the exercise of discretion and independent judgment, and
-c. meet the duties test set out at Section 2(h)(ii) of the Orders, and d. are highly skilled and proficient in the theoretical and practical application of highly
+a. for 2023, earn fifty-three dollars and eighty cents ($53.80) per hour for each hour worked, a minimum monthly salary of $9,339.78 and a minimum annual salary of $112,065.20, to be adjusted annually by the Office of the Director, Research (ODR) on October 1 of each year to become effective January 1 of the following year by an amount equal to the percentage increase in the California Consumer Price Index for Urban Wage Earners and Clerical Workers. This adjustment is posted on the ODR website annually here: Overtime Exemption for Computer Software Employees (ca.gov) and are primarily engaged in work that is intellectual or creative and requires the exercise of discretion and independent judgment, and
+b. meet the duties test set out at Section 2(h)(ii) of the Orders, and c. are highly skilled and proficient in the theoretical and practical application of highly
 specialized information to computer systems analysis, programming, and software engineering within the meaning of Labor Code § 515.5 and exceptions thereto as defined in Labor Code § 515.5(b).
 7. Physicians, like computer software workers, are exempt from overtime provisions of the Code and IWC Orders, if they:
-a. earn at least $84.79 per hour for each hour worked for 2020 posted on the DLSR website annually here: https://www.dir.ca.gov/OPRL/ComputerSoftware.pdf and
-b. their primary duties require licensure pursuant to Business and Professions Code §2000.
+a. earn at least $97.99 per hour for each hour worked for 2023 posted on the ODR website annually here: Overtime Exemption for Physician/Surgeon Employees (ca.gov)
+and b. their primary duties require licensure pursuant to Business and Professions Code
+§2000.
 8. Generally, employees covered by a valid CBA that expressly provides for the wages, hours of work, and working conditions of the employees, and if the agreement provides premium wage rates for all overtime hours worked and a regular hourly rate of pay for those employees of not less than 30 percent more than the state minimum wage, are exempt from overtime requirements contained in Section 3 of the Orders (Hours and Days of Work) except for provisions concerning premium pay for minors.
 a. Order 4 limits the number of hours in a workweek to seventy-two and a CBA may not change that limit
 b. except for the provisions of Sections 4, 10, 11, 12 and 20, Order 9 exempts all employees covered by a CBA under the Railway Labor Act. This exception was contained in prior Orders and is extended as a result of the provisions of Labor Code § 515(b)(2).
+
 *The IWC Orders simply state that "employees in the computer software field...shall be exempt" if they meet the listed criteria. The provisions of Labor Code § 515.5 only exempt these employees from the overtime requirements if they meet that same criteria. It is the position of the DLSE, therefore, that the computer software exemption is limited only to the overtime exemption; but that they remain covered by the other protections in the Orders.
 
-DECEMBER, 2019
+DECEMBER 2022
 
 50 - 2
 
@@ -6037,35 +6085,23 @@ JUNE, 2002
 
 51 - 6
 
-DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
+51.6.4.1 51.6.5 51.6.5.1
 
-51.6.4.1
-
+DIVISION OF LABORSTANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 The important consideration which is shared by both the federal and the state law is that in order for an employer to be relieved of the obligation to pay the overtime premium required after eight hours in a workday or forty hours in a workweek, the employer is obligated, instead, to pay a pre-determined salary to the exempt employee.
-
-51.6.5
-
-Basic Differences Between Federal Law And Regulations And Califoria Law. While the federal government's regulations regarding the salary test contained at Title 29 of the Code of Federal Regulations can be used as a guide, it is clear that there are a number of distinct differences between the requirements under the federal law and those set out in the California statute (Labor Code § 515(a)) and the IWC Orders.
-
-51.6.5.1
-
+Basic Differences Between Federal Law And Regulations And California Law. While the federal government's regulations regarding the salary test contained at Title 29 of the Code of Federal Regulations can be used as a guide, it is clear that there are a number of distinct differences between the requirements under the federal law and those set out in the California statute (Labor Code § 515(a)) and the IWC Orders.
 California Salary Test Based On Multiple Of Current Minimum Wage. The first basic difference is that the salary found in the California law is based on the California minimum wage in effect at the time while the federal test continues to be the same fixed amount first utilized in 1973.
 
-51.6.5.2
-
-Effective January 1, 2001, the California minimum wage was $6.25 per hour, and effective January 1, 2002, that minimum wage rose to $6.75 per hour. For the year 2001, the monthly salary paid to an exempt employee must have equaled or exceeded $2166.67 and in the year 2002 that sum rose to $2340.00.
-
-51.6.5.3
-
-Federal Tests. The federal regulations currently require that in order to meet the "short test" for exemption the employee need only have a pre-determined salary of $250.00 per week (approximately $1083.33 per month); and in order to meet the so-called "long test", a salary of $155.00 per week (approximately $661.66 per month).
-
+51.6.5.2 51.6.5.3
 51.6.6
 
-California Salary Basis Enforcement Policy. Second, the federal salary regulations require that an exempt employee be paid a full salary for any week in which he performs any work. Although the California statute and the IWC orders refer to a minimum "monthly" salary, the Division of Labor Standards Enforcement announced on March 1, 2002, that for enforcement purposes the DLSE will follow the federal regulations which require that the salary test be based on a weekly salary. Therefore, an employer may deduct a week's salary from the monthly salary where the employee performed no work that week. In contra st, the emplo yer may no t prorate the m onthly salary for part-time employees. It must also be noted that deductions for vacation are treated differently u nder state and fe deral law. (O .L. 2002.03.01)
+Effective January 1, 2023, the California minimum wage is $15.50 per hour. For the year 2023, the monthly salary paid to an exempt employee must equal or exceed $ 5,373.33.
+Federal Tests. The federal regulations currently require that in order to meet the "short test" for exemption the employee need only have a pre-determined salary of $250.00 per week (approximately $1083.33 per month); and in order to meet the so-called "long test", a salary of $155.00 per week (approximately $661.66 per month).
+California Salary Basis Enforcement Policy. Second, the federal salary regulations require that an exempt employee be paid a full salary for any week in which he performs any work. Although the California statute and the IWC orders refer to a minimum "monthly" salary, the Division of Labor Standards Enforcement announced on March 1, 2002, that for enforcement purposes the DLSE will follow the federal regulations which require that the salary test be based on a weekly salary. Therefore, an employer may deduct a week's salary from the monthly salary where the employee performed no work that week. In contrast, the employer may not prorate the monthly salary for part-time employees. It must also be noted that deductions for vacation are treated differently under state and federal law. (O.L. 2002.03.01)
 
-JUNE, 2002
+DECEMBER 2022
 
-51 - 7
+51 -7
 
 DIVISION OF LABOR STANDARDS ENFORCEMENT POLICIES AND INTERPRETATIONS MANUAL
 
